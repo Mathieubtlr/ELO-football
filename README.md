@@ -49,5 +49,3 @@ The most critical folder is **Programs**, which contains all the Python scripts 
 - ELO and perpetual rankings developed  
 - Visual animations of team evolution over time  
 - Clean and reusable dataset for predictive modeling
-
-
