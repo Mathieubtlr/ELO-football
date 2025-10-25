@@ -1,0 +1,992 @@
+2023-08-05,ligue-2,1,AS Saint-Étienne,Grenoble Foot 38,0,1
+2023-08-05,ligue-2,1,AC Ajaccio,Rodez AF,1,1
+2023-08-05,ligue-2,1,Paris FC,SM Caen,0,2
+2023-08-05,ligue-2,1,FC Annecy,EA Guingamp,1,4
+2023-08-05,ligue-2,1,Valenciennes FC,AJ Auxerre,1,4
+2023-08-05,ligue-2,1,Amiens SC,US Quevilly-Rouen,1,0
+2023-08-05,ligue-2,1,Stade Lavallois,Angers SCO,1,0
+2023-08-05,ligue-2,1,US Concarneau,SC Bastia,0,0
+2023-08-05,ligue-2,1,USL Dunkerque,ESTAC Troyes,2,2
+2023-08-07,ligue-2,1,Pau FC,Girondins Bordeaux,3,0
+2023-08-11,ligue-1,1,OGC Nice,Lille OSC,1,1
+2023-08-11,national,1,AS Nancy Lorraine,FC Villefranche Beaujolais,1,1
+2023-08-11,national,1,Chamois Niortais,US Avranches,3,2
+2023-08-11,national,1,Dijon FCO,FC Rouen 1899,0,0
+2023-08-11,national,1,Marignane Gignac,Le Mans FC,0,2
+2023-08-11,national,1,SAS Épinal,Red Star FC,1,2
+2023-08-11,national,1,SO Cholet,LB Châteauroux,2,0
+2023-08-11,national,1,US Orléans,GOAL FC,1,0
+2023-08-12,ligue-1,1,Olympique Marseille,Stade de Reims,2,1
+2023-08-12,ligue-1,1,Paris Saint-Germain,FC Lorient,0,0
+2023-08-12,ligue-2,2,Rodez AF,AS Saint-Étienne,2,1
+2023-08-12,ligue-2,2,AJ Auxerre,Amiens SC,0,1
+2023-08-12,ligue-2,2,EA Guingamp,USL Dunkerque,0,1
+2023-08-12,ligue-2,2,ESTAC Troyes,Stade Lavallois,3,1
+2023-08-12,ligue-2,2,Grenoble Foot 38,Paris FC,2,0
+2023-08-12,ligue-2,2,SC Bastia,Valenciennes FC,3,0
+2023-08-12,ligue-2,2,Angers SCO,FC Annecy,0,0
+2023-08-12,ligue-2,2,SM Caen,Pau FC,2,0
+2023-08-12,ligue-2,2,US Quevilly-Rouen,AC Ajaccio,0,1
+2023-08-13,ligue-1,1,Stade Brestois 29,RC Lens,3,2
+2023-08-13,ligue-1,1,Clermont Foot 63,AS Monaco,2,4
+2023-08-13,ligue-1,1,FC Nantes,Toulouse FC,1,2
+2023-08-13,ligue-1,1,Montpellier HSC,Havre AC,2,2
+2023-08-13,ligue-1,1,Stade Rennais,FC Metz,5,1
+2023-08-13,ligue-1,1,RC Strasbourg,Olympique Lyonnais,2,1
+2023-08-14,ligue-2,2,Girondins Bordeaux,US Concarneau,1,0
+2023-08-14,national,1,Nîmes Olympique,FC Martigues,1,1
+2023-08-18,ligue-1,2,FC Metz,Olympique Marseille,2,2
+2023-08-18,national,2,AS Nancy Lorraine,SAS Épinal,2,2
+2023-08-18,national,2,FC Martigues,FC Versailles,2,1
+2023-08-18,national,2,FC Rouen 1899,Nîmes Olympique,1,1
+2023-08-18,national,2,FC Villefranche Beaujolais,SO Cholet,2,1
+2023-08-18,national,2,GOAL FC,Red Star FC,3,1
+2023-08-18,national,2,LB Châteauroux,Chamois Niortais,2,0
+2023-08-18,national,2,US Avranches,Marignane Gignac,3,0
+2023-08-19,ligue-1,2,Olympique Lyonnais,Montpellier HSC,1,4
+2023-08-19,ligue-1,2,Toulouse FC,Paris Saint-Germain,1,1
+2023-08-19,ligue-2,3,Angers SCO,AJ Auxerre,2,2
+2023-08-19,ligue-2,3,AS Saint-Étienne,US Quevilly-Rouen,2,1
+2023-08-19,ligue-2,3,Pau FC,Paris FC,2,0
+2023-08-19,ligue-2,3,FC Annecy,USL Dunkerque,3,0
+2023-08-19,ligue-2,3,Valenciennes FC,EA Guingamp,0,0
+2023-08-19,ligue-2,3,Grenoble Foot 38,ESTAC Troyes,0,0
+2023-08-19,ligue-2,3,Amiens SC,SC Bastia,2,1
+2023-08-19,ligue-2,3,Stade Lavallois,Rodez AF,1,0
+2023-08-19,ligue-2,3,US Concarneau,SM Caen,0,2
+2023-08-20,ligue-1,2,Lille OSC,FC Nantes,2,0
+2023-08-20,ligue-1,2,Havre AC,Stade Brestois 29,1,2
+2023-08-20,ligue-1,2,FC Lorient,OGC Nice,1,1
+2023-08-20,ligue-1,2,Stade de Reims,Clermont Foot 63,2,0
+2023-08-20,ligue-1,2,AS Monaco,RC Strasbourg,3,0
+2023-08-20,ligue-1,2,RC Lens,Stade Rennais,1,1
+2023-08-21,ligue-2,3,AC Ajaccio,Girondins Bordeaux,0,0
+2023-08-21,national,2,Le Mans FC,Dijon FCO,1,1
+2023-08-25,ligue-1,3,FC Nantes,AS Monaco,3,3
+2023-08-25,national,3,Red Star FC,FC Sochaux,2,0
+2023-08-25,national,3,Chamois Niortais,FC Villefranche Beaujolais,1,1
+2023-08-25,national,3,Dijon FCO,US Avranches,5,2
+2023-08-25,national,3,Marignane Gignac,LB Châteauroux,1,1
+2023-08-25,national,3,Nîmes Olympique,Le Mans FC,1,1
+2023-08-25,national,3,SO Cholet,AS Nancy Lorraine,0,2
+2023-08-25,national,3,SAS Épinal,GOAL FC,0,0
+2023-08-25,national,3,US Orléans,FC Martigues,0,1
+2023-08-26,ligue-1,3,Olympique Marseille,Stade Brestois 29,2,0
+2023-08-26,ligue-1,3,Paris Saint-Germain,RC Lens,3,1
+2023-08-26,ligue-2,4,Girondins Bordeaux,Amiens SC,2,0
+2023-08-26,ligue-2,4,AJ Auxerre,Grenoble Foot 38,0,0
+2023-08-26,ligue-2,4,EA Guingamp,Pau FC,4,0
+2023-08-26,ligue-2,4,Paris FC,US Concarneau,3,0
+2023-08-26,ligue-2,4,Rodez AF,Valenciennes FC,0,1
+2023-08-26,ligue-2,4,SC Bastia,ESTAC Troyes,3,2
+2023-08-26,ligue-2,4,SM Caen,AC Ajaccio,3,0
+2023-08-26,ligue-2,4,US Quevilly-Rouen,Stade Lavallois,0,0
+2023-08-26,ligue-2,4,USL Dunkerque,Angers SCO,0,1
+2023-08-27,ligue-1,3,Stade Rennais,Havre AC,2,2
+2023-08-27,ligue-1,3,Clermont Foot 63,FC Metz,0,1
+2023-08-27,ligue-1,3,Montpellier HSC,Stade de Reims,1,3
+2023-08-27,ligue-1,3,RC Strasbourg,Toulouse FC,2,0
+2023-08-27,ligue-1,3,FC Lorient,Lille OSC,4,1
+2023-08-27,ligue-1,3,OGC Nice,Olympique Lyonnais,0,0
+2023-08-28,ligue-2,4,FC Annecy,AS Saint-Étienne,1,1
+2023-08-28,national,3,FC Versailles,FC Rouen 1899,2,2
+2023-09-01,ligue-1,4,FC Nantes,Olympique Marseille,1,1
+2023-09-01,national,4,FC Sochaux,GOAL FC,0,3
+2023-09-01,national,4,AS Nancy Lorraine,Chamois Niortais,2,2
+2023-09-01,national,4,FC Rouen 1899,US Orléans,2,1
+2023-09-01,national,4,FC Villefranche Beaujolais,Marignane Gignac,2,1
+2023-09-01,national,4,LB Châteauroux,Dijon FCO,2,0
+2023-09-01,national,4,Le Mans FC,FC Versailles,0,0
+2023-09-01,national,4,SO Cholet,SAS Épinal,2,1
+2023-09-01,national,4,US Avranches,Nîmes Olympique,2,0
+2023-09-02,ligue-1,4,Stade Brestois 29,Stade Rennais,0,0
+2023-09-02,ligue-1,4,AS Monaco,RC Lens,3,0
+2023-09-02,ligue-2,5,Girondins Bordeaux,AJ Auxerre,2,4
+2023-09-02,ligue-2,5,AC Ajaccio,USL Dunkerque,2,2
+2023-09-02,ligue-2,5,AS Saint-Étienne,Valenciennes FC,0,0
+2023-09-02,ligue-2,5,ESTAC Troyes,US Quevilly-Rouen,2,2
+2023-09-02,ligue-2,5,Pau FC,Rodez AF,2,2
+2023-09-02,ligue-2,5,Grenoble Foot 38,SC Bastia,0,0
+2023-09-02,ligue-2,5,Amiens SC,EA Guingamp,4,1
+2023-09-02,ligue-2,5,Angers SCO,Paris FC,2,0
+2023-09-02,ligue-2,5,Stade Lavallois,SM Caen,2,1
+2023-09-02,ligue-2,5,US Concarneau,FC Annecy,1,1
+2023-09-03,ligue-1,4,Toulouse FC,Clermont Foot 63,2,2
+2023-09-03,ligue-1,4,Havre AC,FC Lorient,3,0
+2023-09-03,ligue-1,4,FC Metz,Stade de Reims,2,2
+2023-09-03,ligue-1,4,Lille OSC,Montpellier HSC,1,0
+2023-09-03,ligue-1,4,OGC Nice,RC Strasbourg,2,0
+2023-09-03,ligue-1,4,Olympique Lyonnais,Paris Saint-Germain,1,4
+2023-09-04,national,4,FC Martigues,Red Star FC,0,1
+2023-09-08,national,5,Dijon FCO,FC Villefranche Beaujolais,2,0
+2023-09-08,national,5,Chamois Niortais,SO Cholet,2,0
+2023-09-08,national,5,GOAL FC,FC Martigues,0,0
+2023-09-08,national,5,Nîmes Olympique,LB Châteauroux,2,2
+2023-09-08,national,5,SAS Épinal,FC Sochaux,0,3
+2023-09-08,national,5,Marignane Gignac,AS Nancy Lorraine,1,1
+2023-09-09,national,5,FC Versailles,US Avranches,1,1
+2023-09-11,national,5,Red Star FC,FC Rouen 1899,3,2
+2023-09-11,national,5,US Orléans,Le Mans FC,1,3
+2023-09-15,ligue-1,5,Paris Saint-Germain,OGC Nice,2,3
+2023-09-15,national,6,Chamois Niortais,SAS Épinal,2,1
+2023-09-15,national,6,FC Martigues,FC Sochaux,1,2
+2023-09-15,national,6,FC Villefranche Beaujolais,Nîmes Olympique,1,1
+2023-09-15,national,6,LB Châteauroux,FC Versailles,0,2
+2023-09-15,national,6,Le Mans FC,Red Star FC,1,2
+2023-09-15,national,6,FC Rouen 1899,GOAL FC,2,1
+2023-09-15,national,6,SO Cholet,Marignane Gignac,0,1
+2023-09-15,national,6,US Avranches,US Orléans,1,1
+2023-09-16,ligue-1,5,Stade Rennais,Lille OSC,2,2
+2023-09-16,ligue-1,5,RC Lens,FC Metz,0,1
+2023-09-16,ligue-2,6,SM Caen,AS Saint-Étienne,1,2
+2023-09-16,ligue-2,6,AJ Auxerre,Pau FC,2,2
+2023-09-16,ligue-2,6,Paris FC,Amiens SC,3,0
+2023-09-16,ligue-2,6,FC Annecy,ESTAC Troyes,0,0
+2023-09-16,ligue-2,6,Valenciennes FC,Girondins Bordeaux,1,2
+2023-09-16,ligue-2,6,Rodez AF,Angers SCO,4,1
+2023-09-16,ligue-2,6,SC Bastia,Stade Lavallois,0,3
+2023-09-16,ligue-2,6,US Quevilly-Rouen,US Concarneau,2,3
+2023-09-16,ligue-2,6,USL Dunkerque,Grenoble Foot 38,0,0
+2023-09-17,ligue-1,5,FC Lorient,AS Monaco,2,2
+2023-09-17,ligue-1,5,Clermont Foot 63,FC Nantes,0,1
+2023-09-17,ligue-1,5,RC Strasbourg,Montpellier HSC,2,2
+2023-09-17,ligue-1,5,Stade de Reims,Stade Brestois 29,1,2
+2023-09-17,ligue-1,5,Olympique Marseille,Toulouse FC,0,0
+2023-09-17,ligue-1,5,Olympique Lyonnais,Havre AC,0,0
+2023-09-18,ligue-2,6,EA Guingamp,AC Ajaccio,3,0
+2023-09-18,national,6,AS Nancy Lorraine,Dijon FCO,3,0
+2023-09-22,ligue-1,6,AS Monaco,OGC Nice,0,1
+2023-09-22,national,7,Dijon FCO,SO Cholet,0,1
+2023-09-22,national,7,Red Star FC,US Avranches,3,0
+2023-09-22,national,7,GOAL FC,Le Mans FC,1,2
+2023-09-22,national,7,Nîmes Olympique,AS Nancy Lorraine,1,0
+2023-09-22,national,7,SAS Épinal,FC Martigues,0,0
+2023-09-22,national,7,Marignane Gignac,Chamois Niortais,1,2
+2023-09-22,national,7,US Orléans,LB Châteauroux,2,2
+2023-09-22,national,7,FC Versailles,FC Villefranche Beaujolais,0,1
+2023-09-23,ligue-1,6,FC Nantes,FC Lorient,5,3
+2023-09-23,ligue-1,6,Stade Brestois 29,Olympique Lyonnais,1,0
+2023-09-23,ligue-2,7,ESTAC Troyes,AJ Auxerre,1,2
+2023-09-23,ligue-2,7,AC Ajaccio,Paris FC,2,1
+2023-09-23,ligue-2,7,Pau FC,FC Annecy,0,3
+2023-09-23,ligue-2,7,Grenoble Foot 38,US Quevilly-Rouen,2,1
+2023-09-23,ligue-2,7,Amiens SC,Valenciennes FC,0,0
+2023-09-23,ligue-2,7,Angers SCO,SC Bastia,2,0
+2023-09-23,ligue-2,7,Stade Lavallois,EA Guingamp,2,1
+2023-09-23,ligue-2,7,US Concarneau,AS Saint-Étienne,0,1
+2023-09-23,ligue-2,7,USL Dunkerque,Rodez AF,1,2
+2023-09-24,ligue-1,6,FC Metz,RC Strasbourg,0,1
+2023-09-24,ligue-1,6,Havre AC,Clermont Foot 63,2,1
+2023-09-24,ligue-1,6,RC Lens,Toulouse FC,2,1
+2023-09-24,ligue-1,6,Montpellier HSC,Stade Rennais,0,0
+2023-09-24,ligue-1,6,Paris Saint-Germain,Olympique Marseille,4,0
+2023-09-25,national,7,FC Sochaux,FC Rouen 1899,0,1
+2023-09-26,ligue-1,6,Lille OSC,Stade de Reims,1,2
+2023-09-26,ligue-2,8,AJ Auxerre,FC Annecy,4,0
+2023-09-26,ligue-2,8,EA Guingamp,Girondins Bordeaux,0,0
+2023-09-26,ligue-2,8,Paris FC,Stade Lavallois,0,1
+2023-09-26,ligue-2,8,Valenciennes FC,US Concarneau,0,1
+2023-09-26,ligue-2,8,Rodez AF,ESTAC Troyes,2,1
+2023-09-26,ligue-2,8,Amiens SC,AC Ajaccio,0,0
+2023-09-26,ligue-2,8,SC Bastia,Pau FC,1,4
+2023-09-26,ligue-2,8,SM Caen,Grenoble Foot 38,1,2
+2023-09-26,ligue-2,8,US Quevilly-Rouen,Angers SCO,0,1
+2023-09-29,ligue-1,7,RC Strasbourg,RC Lens,0,1
+2023-09-29,national,8,AS Nancy Lorraine,FC Versailles,0,2
+2023-09-29,national,8,Chamois Niortais,Dijon FCO,3,0
+2023-09-29,national,8,FC Villefranche Beaujolais,US Orléans,3,0
+2023-09-29,national,8,Le Mans FC,FC Sochaux,2,1
+2023-09-29,national,8,FC Rouen 1899,FC Martigues,0,0
+2023-09-29,national,8,SO Cholet,Nîmes Olympique,0,2
+2023-09-29,national,8,US Avranches,GOAL FC,1,1
+2023-09-29,national,8,Marignane Gignac,SAS Épinal,2,0
+2023-09-30,ligue-1,7,Clermont Foot 63,Paris Saint-Germain,0,0
+2023-09-30,ligue-1,7,AS Monaco,Olympique Marseille,3,2
+2023-09-30,ligue-2,9,ESTAC Troyes,AS Saint-Étienne,0,1
+2023-09-30,ligue-2,9,AJ Auxerre,Rodez AF,3,1
+2023-09-30,ligue-2,9,Pau FC,Amiens SC,1,0
+2023-09-30,ligue-2,9,FC Annecy,Paris FC,2,2
+2023-09-30,ligue-2,9,Grenoble Foot 38,Girondins Bordeaux,2,0
+2023-09-30,ligue-2,9,Angers SCO,US Concarneau,2,0
+2023-09-30,ligue-2,9,SM Caen,EA Guingamp,0,1
+2023-09-30,ligue-2,9,Stade Lavallois,Valenciennes FC,1,0
+2023-09-30,ligue-2,9,USL Dunkerque,US Quevilly-Rouen,0,1
+2023-10-01,ligue-1,7,Stade de Reims,Olympique Lyonnais,2,0
+2023-10-01,ligue-1,7,Havre AC,Lille OSC,0,2
+2023-10-01,ligue-1,7,Toulouse FC,FC Metz,3,0
+2023-10-01,ligue-1,7,OGC Nice,Stade Brestois 29,0,0
+2023-10-01,ligue-1,7,FC Lorient,Montpellier HSC,0,3
+2023-10-01,ligue-1,7,Stade Rennais,FC Nantes,3,1
+2023-10-02,ligue-2,9,AC Ajaccio,SC Bastia,2,0
+2023-10-02,national,8,LB Châteauroux,Red Star FC,1,2
+2023-10-03,ligue-2,7,Girondins Bordeaux,SM Caen,1,1
+2023-10-03,national,1,FC Versailles,FC Sochaux,1,1
+2023-10-04,ligue-2,8,AS Saint-Étienne,USL Dunkerque,2,0
+2023-10-06,ligue-1,8,RC Strasbourg,FC Nantes,1,2
+2023-10-06,national,9,Dijon FCO,Marignane Gignac,0,0
+2023-10-06,national,9,FC Martigues,Le Mans FC,4,0
+2023-10-06,national,9,Red Star FC,FC Villefranche Beaujolais,2,0
+2023-10-06,national,9,GOAL FC,LB Châteauroux,1,1
+2023-10-06,national,9,Nîmes Olympique,Chamois Niortais,1,0
+2023-10-06,national,9,SAS Épinal,FC Rouen 1899,1,1
+2023-10-06,national,9,US Orléans,AS Nancy Lorraine,1,0
+2023-10-07,ligue-1,8,FC Metz,OGC Nice,0,1
+2023-10-07,ligue-1,8,Stade de Reims,AS Monaco,1,3
+2023-10-07,ligue-2,10,Girondins Bordeaux,Stade Lavallois,0,1
+2023-10-07,ligue-2,10,AS Saint-Étienne,AC Ajaccio,0,0
+2023-10-07,ligue-2,10,EA Guingamp,Grenoble Foot 38,2,2
+2023-10-07,ligue-2,10,Paris FC,AJ Auxerre,0,2
+2023-10-07,ligue-2,10,Valenciennes FC,ESTAC Troyes,1,1
+2023-10-07,ligue-2,10,Rodez AF,SM Caen,5,3
+2023-10-07,ligue-2,10,Amiens SC,Angers SCO,1,4
+2023-10-07,ligue-2,10,SC Bastia,FC Annecy,2,1
+2023-10-07,ligue-2,10,US Concarneau,USL Dunkerque,4,3
+2023-10-07,ligue-2,10,US Quevilly-Rouen,Pau FC,2,2
+2023-10-07,national,9,FC Sochaux,US Avranches,2,1
+2023-10-07,national,9,FC Versailles,SO Cholet,3,2
+2023-10-08,ligue-1,8,Olympique Marseille,Havre AC,3,0
+2023-10-08,ligue-1,8,Olympique Lyonnais,FC Lorient,3,3
+2023-10-08,ligue-1,8,Stade Brestois 29,Toulouse FC,1,1
+2023-10-08,ligue-1,8,RC Lens,Lille OSC,1,1
+2023-10-08,ligue-1,8,Stade Rennais,Paris Saint-Germain,1,3
+2023-10-11,national,10,Le Mans FC,FC Rouen 1899,0,1
+2023-10-11,national,10,AS Nancy Lorraine,Red Star FC,1,1
+2023-10-11,national,10,Dijon FCO,SAS Épinal,4,1
+2023-10-11,national,10,Chamois Niortais,FC Versailles,1,0
+2023-10-11,national,10,FC Villefranche Beaujolais,GOAL FC,2,1
+2023-10-11,national,10,LB Châteauroux,FC Sochaux,1,1
+2023-10-11,national,10,SO Cholet,US Orléans,0,1
+2023-10-11,national,10,US Avranches,FC Martigues,2,0
+2023-10-11,national,10,Marignane Gignac,Nîmes Olympique,1,1
+2023-10-20,ligue-1,9,Havre AC,RC Lens,0,0
+2023-10-20,national,11,FC Martigues,LB Châteauroux,1,1
+2023-10-20,national,11,FC Sochaux,FC Villefranche Beaujolais,3,3
+2023-10-20,national,11,GOAL FC,AS Nancy Lorraine,1,0
+2023-10-20,national,11,Nîmes Olympique,Dijon FCO,0,0
+2023-10-20,national,11,SAS Épinal,Le Mans FC,1,2
+2023-10-20,national,11,US Orléans,Chamois Niortais,4,2
+2023-10-20,national,11,FC Versailles,Marignane Gignac,1,1
+2023-10-21,ligue-1,9,Paris Saint-Germain,RC Strasbourg,3,0
+2023-10-21,ligue-1,9,OGC Nice,Olympique Marseille,1,0
+2023-10-21,ligue-2,11,SM Caen,AJ Auxerre,1,1
+2023-10-21,ligue-2,11,AC Ajaccio,Pau FC,2,0
+2023-10-21,ligue-2,11,EA Guingamp,US Quevilly-Rouen,2,2
+2023-10-21,ligue-2,11,ESTAC Troyes,US Concarneau,0,0
+2023-10-21,ligue-2,11,FC Annecy,Amiens SC,1,1
+2023-10-21,ligue-2,11,Grenoble Foot 38,Valenciennes FC,3,3
+2023-10-21,ligue-2,11,Rodez AF,SC Bastia,1,1
+2023-10-21,ligue-2,11,Angers SCO,Girondins Bordeaux,2,0
+2023-10-21,ligue-2,11,USL Dunkerque,Paris FC,1,3
+2023-10-22,ligue-1,9,FC Lorient,Stade Rennais,2,1
+2023-10-22,ligue-1,9,FC Nantes,Montpellier HSC,2,0
+2023-10-22,ligue-1,9,Toulouse FC,Stade de Reims,1,1
+2023-10-22,ligue-1,9,Lille OSC,Stade Brestois 29,1,0
+2023-10-22,ligue-1,9,AS Monaco,FC Metz,2,1
+2023-10-22,ligue-1,9,Olympique Lyonnais,Clermont Foot 63,1,2
+2023-10-23,ligue-2,11,Stade Lavallois,AS Saint-Étienne,0,1
+2023-10-23,national,11,FC Rouen 1899,US Avranches,0,0
+2023-10-23,national,11,Red Star FC,SO Cholet,2,0
+2023-10-25,national,2,FC Sochaux,US Orléans,4,2
+2023-10-27,ligue-1,10,Clermont Foot 63,OGC Nice,0,1
+2023-10-28,ligue-1,10,Stade de Reims,FC Lorient,1,0
+2023-10-28,ligue-1,10,RC Lens,FC Nantes,4,0
+2023-10-28,ligue-2,12,Girondins Bordeaux,Rodez AF,2,2
+2023-10-28,ligue-2,12,AJ Auxerre,USL Dunkerque,0,1
+2023-10-28,ligue-2,12,Paris FC,ESTAC Troyes,2,2
+2023-10-28,ligue-2,12,Pau FC,Grenoble Foot 38,3,2
+2023-10-28,ligue-2,12,Valenciennes FC,SM Caen,2,2
+2023-10-28,ligue-2,12,Amiens SC,Stade Lavallois,0,0
+2023-10-28,ligue-2,12,SC Bastia,EA Guingamp,0,0
+2023-10-28,ligue-2,12,US Concarneau,AC Ajaccio,2,1
+2023-10-28,ligue-2,12,US Quevilly-Rouen,FC Annecy,1,2
+2023-10-29,ligue-1,10,Stade Brestois 29,Paris Saint-Germain,2,3
+2023-10-29,ligue-1,10,FC Metz,Havre AC,0,0
+2023-10-29,ligue-1,10,Montpellier HSC,Toulouse FC,3,0
+2023-10-29,ligue-1,10,Lille OSC,AS Monaco,2,0
+2023-10-29,ligue-1,10,Stade Rennais,RC Strasbourg,1,1
+2023-10-30,ligue-2,12,AS Saint-Étienne,Angers SCO,2,0
+2023-11-03,ligue-1,11,Paris Saint-Germain,Montpellier HSC,3,0
+2023-11-03,national,12,AS Nancy Lorraine,FC Sochaux,1,1
+2023-11-03,national,12,Dijon FCO,FC Versailles,2,1
+2023-11-03,national,12,FC Villefranche Beaujolais,FC Martigues,0,1
+2023-11-03,national,12,LB Châteauroux,FC Rouen 1899,0,3
+2023-11-03,national,12,Nîmes Olympique,SAS Épinal,1,3
+2023-11-03,national,12,SO Cholet,GOAL FC,1,0
+2023-11-03,national,12,US Avranches,Le Mans FC,2,1
+2023-11-03,national,12,Marignane Gignac,US Orléans,0,0
+2023-11-04,ligue-1,11,FC Lorient,RC Lens,0,0
+2023-11-04,ligue-1,11,Olympique Marseille,Lille OSC,0,0
+2023-11-04,ligue-2,13,AS Saint-Étienne,Paris FC,0,1
+2023-11-04,ligue-2,13,ESTAC Troyes,SM Caen,2,1
+2023-11-04,ligue-2,13,FC Annecy,Stade Lavallois,1,3
+2023-11-04,ligue-2,13,Grenoble Foot 38,AC Ajaccio,0,3
+2023-11-04,ligue-2,13,SC Bastia,Girondins Bordeaux,3,1
+2023-11-04,ligue-2,13,Angers SCO,Valenciennes FC,2,0
+2023-11-04,ligue-2,13,US Quevilly-Rouen,Rodez AF,3,1
+2023-11-04,ligue-2,13,USL Dunkerque,Amiens SC,0,1
+2023-11-05,ligue-1,11,Olympique Lyonnais,FC Metz,1,1
+2023-11-05,ligue-1,11,FC Nantes,Stade de Reims,0,1
+2023-11-05,ligue-1,11,Toulouse FC,Havre AC,1,2
+2023-11-05,ligue-1,11,RC Strasbourg,Clermont Foot 63,0,0
+2023-11-05,ligue-1,11,AS Monaco,Stade Brestois 29,2,0
+2023-11-05,ligue-1,11,OGC Nice,Stade Rennais,2,0
+2023-11-06,ligue-2,13,EA Guingamp,AJ Auxerre,2,1
+2023-11-06,national,12,Chamois Niortais,Red Star FC,1,1
+2023-11-10,ligue-1,12,Montpellier HSC,OGC Nice,0,0
+2023-11-10,national,13,FC Martigues,AS Nancy Lorraine,1,0
+2023-11-10,national,13,Red Star FC,Marignane Gignac,2,1
+2023-11-10,national,13,FC Sochaux,SO Cholet,2,0
+2023-11-10,national,13,GOAL FC,Chamois Niortais,2,3
+2023-11-10,national,13,SAS Épinal,US Avranches,4,0
+2023-11-10,national,13,US Orléans,Dijon FCO,1,2
+2023-11-10,national,13,FC Versailles,Nîmes Olympique,6,0
+2023-11-11,ligue-1,12,Stade de Reims,Paris Saint-Germain,0,3
+2023-11-11,ligue-1,12,Havre AC,AS Monaco,0,0
+2023-11-11,ligue-2,14,Girondins Bordeaux,FC Annecy,3,1
+2023-11-11,ligue-2,14,AC Ajaccio,ESTAC Troyes,1,0
+2023-11-11,ligue-2,14,AJ Auxerre,AS Saint-Étienne,5,2
+2023-11-11,ligue-2,14,Paris FC,SC Bastia,1,0
+2023-11-11,ligue-2,14,Pau FC,Angers SCO,4,4
+2023-11-11,ligue-2,14,Valenciennes FC,USL Dunkerque,0,1
+2023-11-11,ligue-2,14,Rodez AF,EA Guingamp,0,0
+2023-11-11,ligue-2,14,Amiens SC,Grenoble Foot 38,1,2
+2023-11-11,ligue-2,14,SM Caen,US Quevilly-Rouen,3,3
+2023-11-11,ligue-2,14,Stade Lavallois,US Concarneau,0,3
+2023-11-12,ligue-1,12,Clermont Foot 63,FC Lorient,1,0
+2023-11-12,ligue-1,12,FC Metz,FC Nantes,3,1
+2023-11-12,ligue-1,12,Lille OSC,Toulouse FC,1,1
+2023-11-12,ligue-1,12,Stade Rennais,Olympique Lyonnais,0,1
+2023-11-12,ligue-1,12,RC Lens,Olympique Marseille,1,0
+2023-11-13,national,13,Le Mans FC,LB Châteauroux,1,1
+2023-11-24,ligue-1,13,Paris Saint-Germain,AS Monaco,5,2
+2023-11-24,national,14,AS Nancy Lorraine,FC Rouen 1899,1,0
+2023-11-24,national,14,Dijon FCO,Red Star FC,3,1
+2023-11-24,national,14,LB Châteauroux,US Avranches,1,2
+2023-11-24,national,14,Nîmes Olympique,US Orléans,2,3
+2023-11-24,national,14,SO Cholet,FC Martigues,0,2
+2023-11-24,national,14,Marignane Gignac,GOAL FC,2,2
+2023-11-25,ligue-1,13,Clermont Foot 63,RC Lens,0,3
+2023-11-25,ligue-1,13,RC Strasbourg,Olympique Marseille,1,1
+2023-11-25,ligue-2,15,AS Saint-Étienne,Pau FC,1,2
+2023-11-25,ligue-2,15,ESTAC Troyes,EA Guingamp,0,1
+2023-11-25,ligue-2,15,Paris FC,Girondins Bordeaux,1,2
+2023-11-25,ligue-2,15,FC Annecy,AC Ajaccio,2,0
+2023-11-25,ligue-2,15,Grenoble Foot 38,Rodez AF,2,1
+2023-11-25,ligue-2,15,SC Bastia,AJ Auxerre,0,0
+2023-11-25,ligue-2,15,Amiens SC,US Concarneau,1,1
+2023-11-25,ligue-2,15,US Quevilly-Rouen,Valenciennes FC,0,0
+2023-11-25,ligue-2,15,USL Dunkerque,Stade Lavallois,0,2
+2023-11-26,ligue-1,13,OGC Nice,Toulouse FC,1,0
+2023-11-26,ligue-1,13,FC Lorient,FC Metz,2,3
+2023-11-26,ligue-1,13,FC Nantes,Havre AC,0,0
+2023-11-26,ligue-1,13,Montpellier HSC,Stade Brestois 29,1,3
+2023-11-26,ligue-1,13,Stade Rennais,Stade de Reims,3,1
+2023-11-26,ligue-1,13,Olympique Lyonnais,Lille OSC,0,2
+2023-11-26,national,14,FC Versailles,SAS Épinal,4,1
+2023-11-27,ligue-2,15,Angers SCO,SM Caen,3,0
+2023-11-27,national,14,Chamois Niortais,FC Sochaux,4,2
+2023-11-28,ligue-2,13,US Concarneau,Pau FC,1,2
+2023-11-29,ligue-1,8,Montpellier HSC,Clermont Foot 63,1,1
+2023-12-01,ligue-1,14,Stade de Reims,RC Strasbourg,2,1
+2023-12-01,national,15,FC Sochaux,Marignane Gignac,4,0
+2023-12-01,national,15,Le Mans FC,AS Nancy Lorraine,1,3
+2023-12-01,national,15,FC Rouen 1899,SO Cholet,5,1
+2023-12-01,national,15,SAS Épinal,LB Châteauroux,4,1
+2023-12-02,ligue-1,14,RC Lens,Olympique Lyonnais,3,2
+2023-12-02,ligue-1,14,FC Nantes,OGC Nice,1,0
+2023-12-02,ligue-2,16,Girondins Bordeaux,ESTAC Troyes,0,1
+2023-12-02,ligue-2,16,AC Ajaccio,Angers SCO,1,1
+2023-12-02,ligue-2,16,AJ Auxerre,US Quevilly-Rouen,3,2
+2023-12-02,ligue-2,16,EA Guingamp,Paris FC,0,1
+2023-12-02,ligue-2,16,Pau FC,USL Dunkerque,1,1
+2023-12-02,ligue-2,16,Valenciennes FC,FC Annecy,0,0
+2023-12-02,ligue-2,16,Rodez AF,US Concarneau,2,0
+2023-12-02,ligue-2,16,Amiens SC,AS Saint-Étienne,1,0
+2023-12-02,ligue-2,16,SM Caen,SC Bastia,1,0
+2023-12-02,ligue-2,16,Stade Lavallois,Grenoble Foot 38,1,1
+2023-12-02,national,15,Red Star FC,Nîmes Olympique,2,0
+2023-12-03,ligue-1,14,Havre AC,Paris Saint-Germain,0,2
+2023-12-03,ligue-1,14,AS Monaco,Montpellier HSC,2,0
+2023-12-03,ligue-1,14,Toulouse FC,FC Lorient,1,1
+2023-12-03,ligue-1,14,Stade Brestois 29,Clermont Foot 63,3,0
+2023-12-03,ligue-1,14,Lille OSC,FC Metz,2,0
+2023-12-03,ligue-1,14,Olympique Marseille,Stade Rennais,2,0
+2023-12-04,national,15,FC Martigues,Chamois Niortais,1,0
+2023-12-05,ligue-2,17,AC Ajaccio,Stade Lavallois,2,0
+2023-12-05,ligue-2,17,AS Saint-Étienne,EA Guingamp,1,3
+2023-12-05,ligue-2,17,ESTAC Troyes,Amiens SC,2,0
+2023-12-05,ligue-2,17,Paris FC,Rodez AF,2,0
+2023-12-05,ligue-2,17,Pau FC,Valenciennes FC,3,1
+2023-12-05,ligue-2,17,Angers SCO,Grenoble Foot 38,1,0
+2023-12-05,ligue-2,17,US Concarneau,AJ Auxerre,1,2
+2023-12-05,ligue-2,17,US Quevilly-Rouen,Girondins Bordeaux,3,2
+2023-12-05,ligue-2,17,USL Dunkerque,SC Bastia,0,5
+2023-12-06,ligue-1,10,Olympique Marseille,Olympique Lyonnais,3,0
+2023-12-06,ligue-2,17,FC Annecy,SM Caen,1,2
+2023-12-07,ligue-1,12,Stade Brestois 29,RC Strasbourg,1,1
+2023-12-08,ligue-1,15,Montpellier HSC,RC Lens,0,0
+2023-12-09,ligue-1,15,Stade Rennais,AS Monaco,1,2
+2023-12-09,ligue-1,15,Paris Saint-Germain,FC Nantes,2,1
+2023-12-10,ligue-1,15,OGC Nice,Stade de Reims,2,1
+2023-12-10,ligue-1,15,Clermont Foot 63,Lille OSC,0,0
+2023-12-10,ligue-1,15,FC Metz,Stade Brestois 29,0,1
+2023-12-10,ligue-1,15,RC Strasbourg,Havre AC,2,1
+2023-12-10,ligue-1,15,Olympique Lyonnais,Toulouse FC,3,0
+2023-12-10,ligue-1,15,FC Lorient,Olympique Marseille,2,4
+2023-12-15,ligue-1,16,AS Monaco,Olympique Lyonnais,0,1
+2023-12-15,national,16,AS Nancy Lorraine,US Avranches,1,0
+2023-12-15,national,16,Dijon FCO,FC Sochaux,0,3
+2023-12-15,national,16,Chamois Niortais,FC Rouen 1899,1,2
+2023-12-15,national,16,FC Villefranche Beaujolais,LB Châteauroux,2,2
+2023-12-15,national,16,Nîmes Olympique,GOAL FC,1,2
+2023-12-15,national,16,SO Cholet,Le Mans FC,0,1
+2023-12-15,national,16,Marignane Gignac,FC Martigues,1,0
+2023-12-15,national,16,US Orléans,SAS Épinal,2,0
+2023-12-16,ligue-1,16,Havre AC,OGC Nice,3,1
+2023-12-16,ligue-1,16,RC Lens,Stade de Reims,2,0
+2023-12-16,ligue-2,18,AJ Auxerre,AC Ajaccio,2,0
+2023-12-16,ligue-2,18,Girondins Bordeaux,AS Saint-Étienne,0,0
+2023-12-16,ligue-2,18,EA Guingamp,US Concarneau,0,1
+2023-12-16,ligue-2,18,ESTAC Troyes,Angers SCO,1,4
+2023-12-16,ligue-2,18,Valenciennes FC,Paris FC,0,1
+2023-12-16,ligue-2,18,Grenoble Foot 38,FC Annecy,1,0
+2023-12-16,ligue-2,18,Rodez AF,Amiens SC,2,2
+2023-12-16,ligue-2,18,SC Bastia,US Quevilly-Rouen,0,0
+2023-12-16,ligue-2,18,SM Caen,USL Dunkerque,1,0
+2023-12-16,ligue-2,18,Stade Lavallois,Pau FC,1,1
+2023-12-17,ligue-1,16,FC Nantes,Stade Brestois 29,0,2
+2023-12-17,ligue-1,16,FC Lorient,RC Strasbourg,1,2
+2023-12-17,ligue-1,16,FC Metz,Montpellier HSC,0,1
+2023-12-17,ligue-1,16,Toulouse FC,Stade Rennais,0,0
+2023-12-17,ligue-1,16,Olympique Marseille,Clermont Foot 63,2,1
+2023-12-17,ligue-1,16,Lille OSC,Paris Saint-Germain,1,1
+2023-12-18,national,16,FC Versailles,Red Star FC,2,2
+2023-12-19,ligue-2,19,AC Ajaccio,Valenciennes FC,2,1
+2023-12-19,ligue-2,19,AS Saint-Étienne,SC Bastia,3,2
+2023-12-19,ligue-2,19,Paris FC,US Quevilly-Rouen,2,2
+2023-12-19,ligue-2,19,Pau FC,ESTAC Troyes,1,1
+2023-12-19,ligue-2,19,FC Annecy,Rodez AF,1,2
+2023-12-19,ligue-2,19,Amiens SC,SM Caen,0,0
+2023-12-19,ligue-2,19,Angers SCO,EA Guingamp,1,0
+2023-12-19,ligue-2,19,Stade Lavallois,AJ Auxerre,1,3
+2023-12-19,ligue-2,19,US Concarneau,Grenoble Foot 38,0,3
+2023-12-19,ligue-2,19,USL Dunkerque,Girondins Bordeaux,0,2
+2023-12-20,ligue-1,17,Clermont Foot 63,Stade Rennais,1,3
+2023-12-20,ligue-1,17,Toulouse FC,AS Monaco,1,2
+2023-12-20,ligue-1,17,Montpellier HSC,Olympique Marseille,1,1
+2023-12-20,ligue-1,17,OGC Nice,RC Lens,2,0
+2023-12-20,ligue-1,17,Olympique Lyonnais,FC Nantes,1,0
+2023-12-20,ligue-1,17,Paris Saint-Germain,FC Metz,3,1
+2023-12-20,ligue-1,17,RC Strasbourg,Lille OSC,2,1
+2023-12-20,ligue-1,17,Stade Brestois 29,FC Lorient,4,0
+2023-12-20,ligue-1,17,Stade de Reims,Havre AC,1,0
+2024-01-12,ligue-1,18,Olympique Marseille,RC Strasbourg,1,1
+2024-01-12,national,17,FC Martigues,Dijon FCO,3,1
+2024-01-12,national,17,Red Star FC,US Orléans,2,1
+2024-01-12,national,17,FC Villefranche Beaujolais,SAS Épinal,1,0
+2024-01-12,national,17,GOAL FC,FC Versailles,2,0
+2024-01-12,national,17,LB Châteauroux,AS Nancy Lorraine,0,1
+2024-01-12,national,17,Le Mans FC,Chamois Niortais,0,2
+2024-01-12,national,17,FC Rouen 1899,Marignane Gignac,1,0
+2024-01-12,national,17,US Avranches,SO Cholet,2,1
+2024-01-13,ligue-1,18,AS Monaco,Stade de Reims,1,3
+2024-01-13,ligue-1,18,Stade Rennais,OGC Nice,2,0
+2024-01-13,ligue-2,20,AS Saint-Étienne,Stade Lavallois,0,0
+2024-01-13,ligue-2,20,ESTAC Troyes,AC Ajaccio,3,1
+2024-01-13,ligue-2,20,Paris FC,FC Annecy,2,1
+2024-01-13,ligue-2,20,Valenciennes FC,Amiens SC,0,1
+2024-01-13,ligue-2,20,Grenoble Foot 38,USL Dunkerque,2,2
+2024-01-13,ligue-2,20,Rodez AF,Pau FC,2,1
+2024-01-13,ligue-2,20,SC Bastia,Angers SCO,2,0
+2024-01-13,ligue-2,20,SM Caen,US Concarneau,1,0
+2024-01-13,ligue-2,20,US Quevilly-Rouen,EA Guingamp,0,1
+2024-01-14,ligue-1,18,Lille OSC,FC Lorient,3,0
+2024-01-14,ligue-1,18,FC Metz,Toulouse FC,0,1
+2024-01-14,ligue-1,18,FC Nantes,Clermont Foot 63,1,2
+2024-01-14,ligue-1,18,Stade Brestois 29,Montpellier HSC,2,0
+2024-01-14,ligue-1,18,Havre AC,Olympique Lyonnais,3,1
+2024-01-14,ligue-1,18,RC Lens,Paris Saint-Germain,0,2
+2024-01-15,ligue-2,20,AJ Auxerre,Girondins Bordeaux,3,1
+2024-01-15,national,17,FC Sochaux,Nîmes Olympique,1,0
+2024-01-19,national,18,SO Cholet,FC Villefranche Beaujolais,0,0
+2024-01-19,national,18,Marignane Gignac,US Avranches,4,1
+2024-01-22,national,18,Dijon FCO,Le Mans FC,1,1
+2024-01-22,national,18,FC Versailles,FC Martigues,0,1
+2024-01-23,ligue-2,21,EA Guingamp,Rodez AF,3,3
+2024-01-23,ligue-2,21,Pau FC,AS Saint-Étienne,0,1
+2024-01-23,ligue-2,21,Girondins Bordeaux,Valenciennes FC,3,1
+2024-01-23,ligue-2,21,Grenoble Foot 38,AJ Auxerre,1,1
+2024-01-23,ligue-2,21,Amiens SC,FC Annecy,1,0
+2024-01-23,ligue-2,21,SC Bastia,SM Caen,1,2
+2024-01-23,ligue-2,21,Angers SCO,US Quevilly-Rouen,3,2
+2024-01-23,ligue-2,21,Stade Lavallois,Paris FC,1,1
+2024-01-23,ligue-2,21,US Concarneau,ESTAC Troyes,1,0
+2024-01-23,ligue-2,21,USL Dunkerque,AC Ajaccio,2,0
+2024-01-26,ligue-1,19,Olympique Lyonnais,Stade Rennais,2,3
+2024-01-26,national,15,GOAL FC,Dijon FCO,1,2
+2024-01-26,national,15,US Orléans,FC Versailles,2,1
+2024-01-26,national,18,Chamois Niortais,LB Châteauroux,0,0
+2024-01-26,national,18,Nîmes Olympique,FC Rouen 1899,2,0
+2024-01-26,national,18,SAS Épinal,AS Nancy Lorraine,1,2
+2024-01-27,ligue-1,19,OGC Nice,FC Metz,1,0
+2024-01-27,ligue-1,19,Olympique Marseille,AS Monaco,2,2
+2024-01-27,ligue-2,22,AS Saint-Étienne,Amiens SC,0,1
+2024-01-27,ligue-2,22,AC Ajaccio,US Concarneau,1,0
+2024-01-27,ligue-2,22,AJ Auxerre,EA Guingamp,1,1
+2024-01-27,ligue-2,22,Paris FC,USL Dunkerque,1,2
+2024-01-27,ligue-2,22,FC Annecy,Pau FC,0,0
+2024-01-27,ligue-2,22,Valenciennes FC,SC Bastia,3,1
+2024-01-27,ligue-2,22,Rodez AF,Stade Lavallois,1,2
+2024-01-27,ligue-2,22,SM Caen,ESTAC Troyes,0,0
+2024-01-27,ligue-2,22,US Quevilly-Rouen,Grenoble Foot 38,1,1
+2024-01-28,ligue-1,19,Montpellier HSC,Lille OSC,0,0
+2024-01-28,ligue-1,19,Clermont Foot 63,RC Strasbourg,1,1
+2024-01-28,ligue-1,19,FC Lorient,Havre AC,3,3
+2024-01-28,ligue-1,19,Stade de Reims,FC Nantes,0,0
+2024-01-28,ligue-1,19,Toulouse FC,RC Lens,0,2
+2024-01-28,ligue-1,19,Paris Saint-Germain,Stade Brestois 29,2,2
+2024-01-29,ligue-2,22,Girondins Bordeaux,Angers SCO,1,0
+2024-02-02,ligue-1,20,RC Strasbourg,Paris Saint-Germain,1,2
+2024-02-02,national,19,AS Nancy Lorraine,SO Cholet,1,0
+2024-02-02,national,19,FC Martigues,US Orléans,1,1
+2024-02-02,national,19,FC Sochaux,Red Star FC,2,2
+2024-02-02,national,19,FC Villefranche Beaujolais,Chamois Niortais,0,4
+2024-02-02,national,19,GOAL FC,SAS Épinal,0,1
+2024-02-02,national,19,LB Châteauroux,Marignane Gignac,3,0
+2024-02-02,national,19,Le Mans FC,Nîmes Olympique,0,0
+2024-02-02,national,19,FC Rouen 1899,FC Versailles,1,2
+2024-02-02,national,19,US Avranches,Dijon FCO,1,4
+2024-02-03,ligue-1,20,Stade Rennais,Montpellier HSC,2,1
+2024-02-03,ligue-1,20,FC Nantes,RC Lens,0,1
+2024-02-03,ligue-2,23,USL Dunkerque,AS Saint-Étienne,1,0
+2024-02-03,ligue-2,23,EA Guingamp,FC Annecy,1,4
+2024-02-03,ligue-2,23,ESTAC Troyes,Girondins Bordeaux,2,1
+2024-02-03,ligue-2,23,Pau FC,AJ Auxerre,2,2
+2024-02-03,ligue-2,23,Grenoble Foot 38,SM Caen,5,1
+2024-02-03,ligue-2,23,Amiens SC,Paris FC,1,1
+2024-02-03,ligue-2,23,Angers SCO,Rodez AF,2,1
+2024-02-03,ligue-2,23,Stade Lavallois,US Quevilly-Rouen,2,4
+2024-02-03,ligue-2,23,US Concarneau,Valenciennes FC,1,0
+2024-02-04,ligue-1,20,AS Monaco,Havre AC,1,1
+2024-02-04,ligue-1,20,FC Metz,FC Lorient,1,2
+2024-02-04,ligue-1,20,Lille OSC,Clermont Foot 63,4,0
+2024-02-04,ligue-1,20,Stade de Reims,Toulouse FC,2,3
+2024-02-04,ligue-1,20,Stade Brestois 29,OGC Nice,0,0
+2024-02-04,ligue-1,20,Olympique Lyonnais,Olympique Marseille,1,0
+2024-02-05,ligue-2,23,SC Bastia,AC Ajaccio,1,0
+2024-02-09,ligue-1,21,Olympique Marseille,FC Metz,1,1
+2024-02-09,national,20,Dijon FCO,LB Châteauroux,1,1
+2024-02-09,national,20,Red Star FC,FC Martigues,2,0
+2024-02-09,national,20,Nîmes Olympique,US Avranches,1,0
+2024-02-09,national,20,SAS Épinal,SO Cholet,3,1
+2024-02-09,national,20,Marignane Gignac,FC Villefranche Beaujolais,1,1
+2024-02-09,national,20,FC Versailles,Le Mans FC,0,0
+2024-02-10,ligue-1,21,RC Lens,RC Strasbourg,3,1
+2024-02-10,ligue-1,21,Paris Saint-Germain,Lille OSC,3,1
+2024-02-10,ligue-2,24,AJ Auxerre,Angers SCO,1,0
+2024-02-10,ligue-2,24,AC Ajaccio,EA Guingamp,3,0
+2024-02-10,ligue-2,24,Paris FC,Pau FC,1,1
+2024-02-10,ligue-2,24,FC Annecy,US Concarneau,0,3
+2024-02-10,ligue-2,24,Valenciennes FC,Stade Lavallois,1,1
+2024-02-10,ligue-2,24,Girondins Bordeaux,Grenoble Foot 38,1,0
+2024-02-10,ligue-2,24,Rodez AF,USL Dunkerque,0,0
+2024-02-10,ligue-2,24,SM Caen,Amiens SC,2,0
+2024-02-10,ligue-2,24,US Quevilly-Rouen,SC Bastia,0,1
+2024-02-11,ligue-1,21,Havre AC,Stade Rennais,0,1
+2024-02-11,ligue-1,21,Clermont Foot 63,Stade Brestois 29,1,1
+2024-02-11,ligue-1,21,FC Lorient,Stade de Reims,2,0
+2024-02-11,ligue-1,21,Toulouse FC,FC Nantes,1,2
+2024-02-11,ligue-1,21,Montpellier HSC,Olympique Lyonnais,1,2
+2024-02-11,ligue-1,21,OGC Nice,AS Monaco,2,3
+2024-02-12,ligue-2,24,AS Saint-Étienne,ESTAC Troyes,5,0
+2024-02-12,national,20,Chamois Niortais,AS Nancy Lorraine,2,1
+2024-02-12,national,20,US Orléans,FC Rouen 1899,0,0
+2024-02-16,ligue-1,22,Olympique Lyonnais,OGC Nice,1,0
+2024-02-16,national,21,AS Nancy Lorraine,Marignane Gignac,4,1
+2024-02-16,national,21,FC Martigues,GOAL FC,3,0
+2024-02-16,national,21,FC Sochaux,SAS Épinal,0,1
+2024-02-16,national,21,FC Villefranche Beaujolais,Dijon FCO,4,0
+2024-02-16,national,21,LB Châteauroux,Nîmes Olympique,0,1
+2024-02-16,national,21,Le Mans FC,US Orléans,0,1
+2024-02-16,national,21,SO Cholet,Chamois Niortais,1,1
+2024-02-16,national,21,US Avranches,FC Versailles,1,0
+2024-02-17,ligue-1,22,Lille OSC,Havre AC,3,0
+2024-02-17,ligue-1,22,FC Nantes,Paris Saint-Germain,0,2
+2024-02-17,ligue-2,25,Angers SCO,AS Saint-Étienne,0,3
+2024-02-17,ligue-2,25,EA Guingamp,SM Caen,1,0
+2024-02-17,ligue-2,25,ESTAC Troyes,Grenoble Foot 38,3,1
+2024-02-17,ligue-2,25,Pau FC,US Quevilly-Rouen,0,2
+2024-02-17,ligue-2,25,FC Annecy,AJ Auxerre,0,2
+2024-02-17,ligue-2,25,SC Bastia,Rodez AF,0,2
+2024-02-17,ligue-2,25,Stade Lavallois,AC Ajaccio,1,1
+2024-02-17,ligue-2,25,US Concarneau,Paris FC,2,2
+2024-02-17,ligue-2,25,USL Dunkerque,Valenciennes FC,2,1
+2024-02-18,ligue-1,22,RC Strasbourg,FC Lorient,1,3
+2024-02-18,ligue-1,22,AS Monaco,Toulouse FC,1,2
+2024-02-18,ligue-1,22,Montpellier HSC,FC Metz,3,0
+2024-02-18,ligue-1,22,Stade Rennais,Clermont Foot 63,3,1
+2024-02-18,ligue-1,22,Stade de Reims,RC Lens,1,1
+2024-02-18,ligue-1,22,Stade Brestois 29,Olympique Marseille,1,0
+2024-02-19,ligue-2,25,Amiens SC,Girondins Bordeaux,1,1
+2024-02-19,national,21,FC Rouen 1899,Red Star FC,1,0
+2024-02-23,ligue-1,23,FC Metz,Olympique Lyonnais,1,2
+2024-02-23,national,22,Red Star FC,Le Mans FC,4,1
+2024-02-23,national,22,FC Sochaux,FC Martigues,1,1
+2024-02-23,national,22,GOAL FC,FC Rouen 1899,1,0
+2024-02-23,national,22,Nîmes Olympique,FC Villefranche Beaujolais,1,1
+2024-02-23,national,22,SAS Épinal,Chamois Niortais,0,3
+2024-02-23,national,22,Marignane Gignac,SO Cholet,3,2
+2024-02-23,national,22,US Orléans,US Avranches,3,1
+2024-02-23,national,22,FC Versailles,LB Châteauroux,1,3
+2024-02-24,ligue-1,23,FC Lorient,FC Nantes,0,1
+2024-02-24,ligue-1,23,RC Strasbourg,Stade Brestois 29,0,3
+2024-02-24,ligue-2,26,AS Saint-Étienne,FC Annecy,2,1
+2024-02-24,ligue-2,26,AC Ajaccio,Amiens SC,0,0
+2024-02-24,ligue-2,26,AJ Auxerre,SC Bastia,1,1
+2024-02-24,ligue-2,26,ESTAC Troyes,USL Dunkerque,1,2
+2024-02-24,ligue-2,26,Valenciennes FC,Rodez AF,0,2
+2024-02-24,ligue-2,26,Girondins Bordeaux,EA Guingamp,1,0
+2024-02-24,ligue-2,26,Grenoble Foot 38,Pau FC,0,1
+2024-02-24,ligue-2,26,US Concarneau,Stade Lavallois,1,3
+2024-02-24,ligue-2,26,US Quevilly-Rouen,Paris FC,0,0
+2024-02-25,ligue-1,23,RC Lens,AS Monaco,2,3
+2024-02-25,ligue-1,23,Havre AC,Stade de Reims,1,2
+2024-02-25,ligue-1,23,Toulouse FC,Lille OSC,3,1
+2024-02-25,ligue-1,23,OGC Nice,Clermont Foot 63,0,0
+2024-02-25,ligue-1,23,Paris Saint-Germain,Stade Rennais,1,1
+2024-02-25,ligue-1,23,Olympique Marseille,Montpellier HSC,4,1
+2024-02-26,ligue-2,26,SM Caen,Angers SCO,2,0
+2024-02-26,national,22,Dijon FCO,AS Nancy Lorraine,3,1
+2024-02-27,national,14,FC Villefranche Beaujolais,Le Mans FC,0,4
+2024-02-27,national,18,Red Star FC,GOAL FC,2,1
+2024-02-27,national,18,US Orléans,FC Sochaux,0,0
+2024-03-01,ligue-1,24,AS Monaco,Paris Saint-Germain,0,0
+2024-03-01,national,23,AS Nancy Lorraine,Nîmes Olympique,3,1
+2024-03-01,national,23,Chamois Niortais,Marignane Gignac,3,2
+2024-03-01,national,23,FC Martigues,SAS Épinal,2,1
+2024-03-01,national,23,SO Cholet,Dijon FCO,2,1
+2024-03-02,ligue-1,24,Stade de Reims,Lille OSC,0,1
+2024-03-02,ligue-1,24,Clermont Foot 63,Olympique Marseille,1,5
+2024-03-02,ligue-2,27,Paris FC,AS Saint-Étienne,0,0
+2024-03-02,ligue-2,27,AJ Auxerre,Valenciennes FC,0,0
+2024-03-02,ligue-2,27,EA Guingamp,ESTAC Troyes,0,0
+2024-03-02,ligue-2,27,Pau FC,SM Caen,2,3
+2024-03-02,ligue-2,27,FC Annecy,US Quevilly-Rouen,0,0
+2024-03-02,ligue-2,27,Rodez AF,Girondins Bordeaux,2,2
+2024-03-02,ligue-2,27,SC Bastia,Grenoble Foot 38,1,0
+2024-03-02,ligue-2,27,Stade Lavallois,Amiens SC,1,1
+2024-03-02,ligue-2,27,USL Dunkerque,US Concarneau,2,2
+2024-03-02,national,23,FC Villefranche Beaujolais,FC Versailles,0,1
+2024-03-02,national,23,US Avranches,Red Star FC,0,0
+2024-03-02,national,23,LB Châteauroux,US Orléans,2,1
+2024-03-02,national,23,Le Mans FC,GOAL FC,2,0
+2024-03-03,ligue-1,24,Toulouse FC,OGC Nice,2,1
+2024-03-03,ligue-1,24,FC Nantes,FC Metz,0,2
+2024-03-03,ligue-1,24,Montpellier HSC,RC Strasbourg,2,2
+2024-03-03,ligue-1,24,Stade Brestois 29,Havre AC,1,0
+2024-03-03,ligue-1,24,Stade Rennais,FC Lorient,1,2
+2024-03-03,ligue-1,24,Olympique Lyonnais,RC Lens,0,3
+2024-03-04,ligue-2,27,Angers SCO,AC Ajaccio,3,1
+2024-03-04,national,23,FC Rouen 1899,FC Sochaux,1,0
+2024-03-08,ligue-1,25,OGC Nice,Montpellier HSC,1,2
+2024-03-08,national,24,FC Martigues,FC Rouen 1899,3,1
+2024-03-08,national,24,Red Star FC,LB Châteauroux,0,0
+2024-03-08,national,24,GOAL FC,US Avranches,4,1
+2024-03-08,national,24,Nîmes Olympique,SO Cholet,2,1
+2024-03-08,national,24,SAS Épinal,Marignane Gignac,0,2
+2024-03-08,national,24,US Orléans,FC Villefranche Beaujolais,2,0
+2024-03-08,national,24,FC Versailles,AS Nancy Lorraine,1,1
+2024-03-09,ligue-1,25,FC Lorient,Olympique Lyonnais,0,2
+2024-03-09,ligue-1,25,RC Lens,Stade Brestois 29,1,0
+2024-03-09,ligue-2,28,AS Saint-Étienne,AJ Auxerre,1,0
+2024-03-09,ligue-2,28,AC Ajaccio,FC Annecy,1,3
+2024-03-09,ligue-2,28,ESTAC Troyes,SC Bastia,2,0
+2024-03-09,ligue-2,28,Valenciennes FC,Angers SCO,0,0
+2024-03-09,ligue-2,28,Girondins Bordeaux,US Quevilly-Rouen,0,0
+2024-03-09,ligue-2,28,Amiens SC,Rodez AF,1,1
+2024-03-09,ligue-2,28,SM Caen,Paris FC,0,1
+2024-03-09,ligue-2,28,US Concarneau,EA Guingamp,2,3
+2024-03-09,ligue-2,28,USL Dunkerque,Pau FC,1,0
+2024-03-09,national,24,FC Sochaux,Le Mans FC,2,2
+2024-03-10,ligue-1,25,Paris Saint-Germain,Stade de Reims,2,2
+2024-03-10,ligue-1,25,Havre AC,Toulouse FC,1,0
+2024-03-10,ligue-1,25,FC Metz,Clermont Foot 63,1,0
+2024-03-10,ligue-1,25,RC Strasbourg,AS Monaco,0,1
+2024-03-10,ligue-1,25,Lille OSC,Stade Rennais,2,2
+2024-03-10,ligue-1,25,Olympique Marseille,FC Nantes,2,0
+2024-03-11,ligue-2,28,Grenoble Foot 38,Stade Lavallois,0,2
+2024-03-11,national,24,Dijon FCO,Chamois Niortais,1,0
+2024-03-12,national,13,FC Rouen 1899,FC Villefranche Beaujolais,1,0
+2024-03-15,ligue-1,26,Toulouse FC,Olympique Lyonnais,2,3
+2024-03-15,national,25,AS Nancy Lorraine,US Orléans,1,0
+2024-03-15,national,25,Chamois Niortais,Nîmes Olympique,3,2
+2024-03-15,national,25,LB Châteauroux,GOAL FC,3,2
+2024-03-15,national,25,Le Mans FC,FC Martigues,2,0
+2024-03-15,national,25,SO Cholet,FC Versailles,0,1
+2024-03-15,national,25,US Avranches,FC Sochaux,0,1
+2024-03-15,national,25,Marignane Gignac,Dijon FCO,2,1
+2024-03-16,ligue-1,26,FC Nantes,RC Strasbourg,1,3
+2024-03-16,ligue-1,26,RC Lens,OGC Nice,1,3
+2024-03-16,ligue-2,29,AJ Auxerre,SM Caen,2,1
+2024-03-16,ligue-2,29,EA Guingamp,Valenciennes FC,3,0
+2024-03-16,ligue-2,29,Paris FC,AC Ajaccio,2,0
+2024-03-16,ligue-2,29,Pau FC,US Concarneau,2,0
+2024-03-16,ligue-2,29,FC Annecy,Girondins Bordeaux,3,1
+2024-03-16,ligue-2,29,Rodez AF,Grenoble Foot 38,3,1
+2024-03-16,ligue-2,29,SC Bastia,AS Saint-Étienne,0,4
+2024-03-16,ligue-2,29,Angers SCO,Amiens SC,1,3
+2024-03-16,ligue-2,29,Stade Lavallois,USL Dunkerque,1,2
+2024-03-16,ligue-2,29,US Quevilly-Rouen,ESTAC Troyes,1,1
+2024-03-17,ligue-1,26,Stade Brestois 29,Lille OSC,1,1
+2024-03-17,ligue-1,26,AS Monaco,FC Lorient,2,2
+2024-03-17,ligue-1,26,Clermont Foot 63,Havre AC,2,1
+2024-03-17,ligue-1,26,Stade de Reims,FC Metz,2,1
+2024-03-17,ligue-1,26,Stade Rennais,Olympique Marseille,2,0
+2024-03-17,ligue-1,26,Montpellier HSC,Paris Saint-Germain,2,6
+2024-03-17,national,25,FC Rouen 1899,SAS Épinal,1,0
+2024-03-18,national,25,FC Villefranche Beaujolais,Red Star FC,0,2
+2024-03-22,national,26,FC Martigues,US Avranches,2,0
+2024-03-22,national,26,Red Star FC,AS Nancy Lorraine,1,1
+2024-03-22,national,26,FC Sochaux,LB Châteauroux,0,2
+2024-03-22,national,26,GOAL FC,FC Villefranche Beaujolais,1,0
+2024-03-22,national,26,Nîmes Olympique,Marignane Gignac,1,1
+2024-03-22,national,26,FC Rouen 1899,Le Mans FC,0,1
+2024-03-22,national,26,SAS Épinal,Dijon FCO,1,1
+2024-03-22,national,26,US Orléans,SO Cholet,1,2
+2024-03-25,national,26,FC Versailles,Chamois Niortais,1,1
+2024-03-26,national,15,US Avranches,FC Villefranche Beaujolais,1,3
+2024-03-26,national,20,GOAL FC,FC Sochaux,2,2
+2024-03-29,ligue-1,27,Lille OSC,RC Lens,2,1
+2024-03-29,national,27,Dijon FCO,Nîmes Olympique,1,1
+2024-03-29,national,27,LB Châteauroux,FC Martigues,1,0
+2024-03-29,national,27,Le Mans FC,SAS Épinal,1,0
+2024-03-29,national,27,SO Cholet,Red Star FC,1,1
+2024-03-29,national,27,Marignane Gignac,FC Versailles,2,0
+2024-03-30,ligue-1,27,FC Metz,AS Monaco,2,5
+2024-03-30,ligue-1,27,Olympique Lyonnais,Stade de Reims,1,1
+2024-03-30,ligue-2,30,Valenciennes FC,AS Saint-Étienne,0,2
+2024-03-30,ligue-2,30,ESTAC Troyes,Rodez AF,2,3
+2024-03-30,ligue-2,30,Girondins Bordeaux,Paris FC,3,3
+2024-03-30,ligue-2,30,Grenoble Foot 38,EA Guingamp,0,0
+2024-03-30,ligue-2,30,Amiens SC,Pau FC,2,3
+2024-03-30,ligue-2,30,Stade Lavallois,SC Bastia,1,2
+2024-03-30,ligue-2,30,US Concarneau,Angers SCO,2,4
+2024-03-30,ligue-2,30,US Quevilly-Rouen,SM Caen,1,2
+2024-03-30,ligue-2,30,USL Dunkerque,FC Annecy,0,2
+2024-03-30,national,27,AS Nancy Lorraine,GOAL FC,2,2
+2024-03-30,national,27,FC Villefranche Beaujolais,FC Sochaux,2,2
+2024-03-30,national,27,US Avranches,FC Rouen 1899,1,2
+2024-03-31,ligue-1,27,FC Lorient,Stade Brestois 29,0,1
+2024-03-31,ligue-1,27,Havre AC,Montpellier HSC,0,2
+2024-03-31,ligue-1,27,Clermont Foot 63,Toulouse FC,0,3
+2024-03-31,ligue-1,27,OGC Nice,FC Nantes,1,2
+2024-03-31,ligue-1,27,RC Strasbourg,Stade Rennais,2,0
+2024-03-31,ligue-1,27,Olympique Marseille,Paris Saint-Germain,0,2
+2024-04-01,ligue-2,30,AC Ajaccio,AJ Auxerre,0,1
+2024-04-01,national,27,Chamois Niortais,US Orléans,0,0
+2024-04-05,ligue-1,28,Lille OSC,Olympique Marseille,3,1
+2024-04-05,national,28,FC Martigues,FC Villefranche Beaujolais,1,0
+2024-04-05,national,28,Red Star FC,Chamois Niortais,2,1
+2024-04-05,national,28,GOAL FC,SO Cholet,3,4
+2024-04-05,national,28,Le Mans FC,US Avranches,3,4
+2024-04-05,national,28,SAS Épinal,Nîmes Olympique,2,1
+2024-04-05,national,28,US Orléans,Marignane Gignac,1,1
+2024-04-05,national,28,FC Versailles,Dijon FCO,2,0
+2024-04-06,ligue-1,28,RC Lens,Havre AC,1,1
+2024-04-06,ligue-1,28,Paris Saint-Germain,Clermont Foot 63,1,1
+2024-04-06,ligue-2,31,AS Saint-Étienne,US Concarneau,1,0
+2024-04-06,ligue-2,31,EA Guingamp,Amiens SC,0,0
+2024-04-06,ligue-2,31,Paris FC,Grenoble Foot 38,2,1
+2024-04-06,ligue-2,31,Pau FC,AC Ajaccio,1,1
+2024-04-06,ligue-2,31,FC Annecy,Valenciennes FC,2,1
+2024-04-06,ligue-2,31,Rodez AF,US Quevilly-Rouen,3,3
+2024-04-06,ligue-2,31,SC Bastia,USL Dunkerque,1,1
+2024-04-06,ligue-2,31,Angers SCO,Stade Lavallois,1,1
+2024-04-06,ligue-2,31,SM Caen,Girondins Bordeaux,0,1
+2024-04-06,national,28,FC Rouen 1899,LB Châteauroux,1,1
+2024-04-07,ligue-1,28,Stade Brestois 29,FC Metz,4,3
+2024-04-07,ligue-1,28,Toulouse FC,RC Strasbourg,0,0
+2024-04-07,ligue-1,28,Montpellier HSC,FC Lorient,2,0
+2024-04-07,ligue-1,28,Stade de Reims,OGC Nice,0,0
+2024-04-07,ligue-1,28,AS Monaco,Stade Rennais,1,0
+2024-04-07,ligue-1,28,FC Nantes,Olympique Lyonnais,1,3
+2024-04-08,ligue-2,31,AJ Auxerre,ESTAC Troyes,2,0
+2024-04-08,national,28,FC Sochaux,AS Nancy Lorraine,4,1
+2024-04-12,ligue-1,29,FC Metz,RC Lens,2,1
+2024-04-12,national,29,Chamois Niortais,GOAL FC,2,0
+2024-04-12,national,29,Dijon FCO,US Orléans,1,0
+2024-04-12,national,29,FC Villefranche Beaujolais,FC Rouen 1899,1,1
+2024-04-12,national,29,LB Châteauroux,Le Mans FC,1,2
+2024-04-12,national,29,Nîmes Olympique,FC Versailles,0,1
+2024-04-12,national,29,SO Cholet,FC Sochaux,1,0
+2024-04-12,national,29,US Avranches,SAS Épinal,0,2
+2024-04-12,national,29,Marignane Gignac,Red Star FC,0,2
+2024-04-13,ligue-1,29,RC Strasbourg,Stade de Reims,3,1
+2024-04-13,ligue-1,29,Stade Rennais,Toulouse FC,1,2
+2024-04-13,ligue-2,32,AC Ajaccio,AS Saint-Étienne,2,0
+2024-04-13,ligue-2,32,ESTAC Troyes,Paris FC,1,2
+2024-04-13,ligue-2,32,Valenciennes FC,Pau FC,1,4
+2024-04-13,ligue-2,32,Girondins Bordeaux,SC Bastia,2,3
+2024-04-13,ligue-2,32,US Concarneau,Amiens SC,0,0
+2024-04-13,ligue-2,32,SM Caen,Rodez AF,1,0
+2024-04-13,ligue-2,32,Stade Lavallois,FC Annecy,0,3
+2024-04-13,ligue-2,32,US Quevilly-Rouen,AJ Auxerre,4,3
+2024-04-13,ligue-2,32,USL Dunkerque,EA Guingamp,0,1
+2024-04-14,ligue-1,29,Havre AC,FC Nantes,0,1
+2024-04-14,ligue-1,29,Clermont Foot 63,Montpellier HSC,1,1
+2024-04-14,ligue-1,29,Olympique Lyonnais,Stade Brestois 29,4,3
+2024-04-15,ligue-2,32,Grenoble Foot 38,Angers SCO,0,0
+2024-04-15,national,29,AS Nancy Lorraine,FC Martigues,3,2
+2024-04-19,ligue-1,30,OGC Nice,FC Lorient,3,0
+2024-04-19,national,30,FC Martigues,SO Cholet,2,2
+2024-04-19,national,30,Red Star FC,Dijon FCO,0,2
+2024-04-19,national,30,GOAL FC,Marignane Gignac,3,0
+2024-04-19,national,30,Le Mans FC,FC Villefranche Beaujolais,1,1
+2024-04-19,national,30,FC Rouen 1899,AS Nancy Lorraine,2,3
+2024-04-19,national,30,SAS Épinal,FC Versailles,0,1
+2024-04-19,national,30,US Avranches,LB Châteauroux,1,0
+2024-04-19,national,30,US Orléans,Nîmes Olympique,0,1
+2024-04-20,ligue-1,30,FC Nantes,Stade Rennais,0,3
+2024-04-20,ligue-1,30,RC Lens,Clermont Foot 63,1,0
+2024-04-20,ligue-2,33,Rodez AF,AJ Auxerre,2,0
+2024-04-20,ligue-2,33,AC Ajaccio,SM Caen,2,1
+2024-04-20,ligue-2,33,AS Saint-Étienne,Girondins Bordeaux,2,1
+2024-04-20,ligue-2,33,EA Guingamp,SC Bastia,0,1
+2024-04-20,ligue-2,33,Paris FC,Valenciennes FC,2,1
+2024-04-20,ligue-2,33,Pau FC,Stade Lavallois,3,0
+2024-04-20,ligue-2,33,FC Annecy,Grenoble Foot 38,0,1
+2024-04-20,ligue-2,33,Amiens SC,USL Dunkerque,0,1
+2024-04-20,ligue-2,33,Angers SCO,ESTAC Troyes,2,1
+2024-04-20,ligue-2,33,US Concarneau,US Quevilly-Rouen,0,0
+2024-04-21,ligue-1,30,Havre AC,FC Metz,0,1
+2024-04-21,ligue-1,30,Lille OSC,RC Strasbourg,1,0
+2024-04-21,ligue-1,30,Stade de Reims,Montpellier HSC,1,2
+2024-04-21,ligue-1,30,Stade Brestois 29,AS Monaco,0,2
+2024-04-21,ligue-1,30,Toulouse FC,Olympique Marseille,2,2
+2024-04-21,ligue-1,30,Paris Saint-Germain,Olympique Lyonnais,4,1
+2024-04-22,national,30,FC Sochaux,Chamois Niortais,2,1
+2024-04-23,ligue-2,34,AJ Auxerre,Stade Lavallois,4,0
+2024-04-23,ligue-2,34,EA Guingamp,Angers SCO,1,2
+2024-04-23,ligue-2,34,ESTAC Troyes,Pau FC,2,2
+2024-04-23,ligue-2,34,Valenciennes FC,AC Ajaccio,1,0
+2024-04-23,ligue-2,34,Girondins Bordeaux,USL Dunkerque,2,0
+2024-04-23,ligue-2,34,Grenoble Foot 38,AS Saint-Étienne,0,2
+2024-04-23,ligue-2,34,Rodez AF,Paris FC,1,0
+2024-04-23,ligue-2,34,SC Bastia,US Concarneau,2,0
+2024-04-23,ligue-2,34,SM Caen,FC Annecy,2,1
+2024-04-23,ligue-2,34,US Quevilly-Rouen,Amiens SC,3,3
+2024-04-24,ligue-1,29,FC Lorient,Paris Saint-Germain,1,4
+2024-04-24,ligue-1,29,AS Monaco,Lille OSC,1,0
+2024-04-24,ligue-1,29,Olympique Marseille,OGC Nice,2,2
+2024-04-26,ligue-1,31,Montpellier HSC,FC Nantes,1,1
+2024-04-26,national,31,Chamois Niortais,FC Martigues,1,3
+2024-04-26,national,31,AS Nancy Lorraine,Le Mans FC,3,6
+2024-04-26,national,31,Dijon FCO,GOAL FC,3,0
+2024-04-26,national,31,FC Villefranche Beaujolais,US Avranches,0,1
+2024-04-26,national,31,LB Châteauroux,SAS Épinal,1,4
+2024-04-26,national,31,SO Cholet,FC Rouen 1899,1,2
+2024-04-26,national,31,Marignane Gignac,FC Sochaux,1,2
+2024-04-26,national,31,FC Versailles,US Orléans,0,0
+2024-04-27,ligue-1,31,Paris Saint-Germain,Havre AC,3,3
+2024-04-27,ligue-2,35,AS Saint-Étienne,SM Caen,1,0
+2024-04-27,ligue-2,35,AC Ajaccio,US Quevilly-Rouen,1,1
+2024-04-27,ligue-2,35,Paris FC,Angers SCO,3,1
+2024-04-27,ligue-2,35,Pau FC,EA Guingamp,1,2
+2024-04-27,ligue-2,35,FC Annecy,SC Bastia,3,2
+2024-04-27,ligue-2,35,Valenciennes FC,Grenoble Foot 38,2,0
+2024-04-27,ligue-2,35,Amiens SC,ESTAC Troyes,0,0
+2024-04-27,ligue-2,35,Stade Lavallois,Girondins Bordeaux,1,0
+2024-04-27,ligue-2,35,US Concarneau,Rodez AF,1,2
+2024-04-28,ligue-1,31,FC Metz,Lille OSC,1,2
+2024-04-28,ligue-1,31,Clermont Foot 63,Stade de Reims,4,1
+2024-04-28,ligue-1,31,FC Lorient,Toulouse FC,1,2
+2024-04-28,ligue-1,31,RC Strasbourg,OGC Nice,1,3
+2024-04-28,ligue-1,31,Stade Rennais,Stade Brestois 29,4,5
+2024-04-28,ligue-1,31,Olympique Lyonnais,AS Monaco,3,2
+2024-04-28,ligue-1,31,Olympique Marseille,RC Lens,2,1
+2024-04-29,ligue-2,35,USL Dunkerque,AJ Auxerre,1,3
+2024-04-29,national,31,Nîmes Olympique,Red Star FC,1,0
+2024-05-03,ligue-1,32,Toulouse FC,Montpellier HSC,1,2
+2024-05-03,ligue-1,32,RC Lens,FC Lorient,2,0
+2024-05-03,ligue-2,36,ESTAC Troyes,Valenciennes FC,1,1
+2024-05-03,ligue-2,36,Girondins Bordeaux,AC Ajaccio,4,0
+2024-05-03,ligue-2,36,Grenoble Foot 38,US Concarneau,2,1
+2024-05-03,ligue-2,36,Rodez AF,FC Annecy,1,3
+2024-05-03,ligue-2,36,SC Bastia,Amiens SC,1,2
+2024-05-03,ligue-2,36,Angers SCO,Pau FC,2,1
+2024-05-03,ligue-2,36,SM Caen,Stade Lavallois,1,0
+2024-05-03,ligue-2,36,US Quevilly-Rouen,USL Dunkerque,1,2
+2024-05-03,national,32,LB Châteauroux,FC Villefranche Beaujolais,1,0
+2024-05-03,national,32,Red Star FC,FC Versailles,1,2
+2024-05-03,national,32,FC Sochaux,Dijon FCO,0,0
+2024-05-03,national,32,GOAL FC,Nîmes Olympique,1,2
+2024-05-03,national,32,Le Mans FC,SO Cholet,3,3
+2024-05-03,national,32,SAS Épinal,US Orléans,0,0
+2024-05-03,national,32,US Avranches,AS Nancy Lorraine,0,3
+2024-05-03,national,32,FC Martigues,Marignane Gignac,2,1
+2024-05-04,ligue-1,32,Havre AC,RC Strasbourg,3,1
+2024-05-04,ligue-1,32,AS Monaco,Clermont Foot 63,4,1
+2024-05-04,ligue-1,32,FC Metz,Stade Rennais,2,3
+2024-05-04,ligue-1,32,Stade Brestois 29,FC Nantes,0,0
+2024-05-04,ligue-2,36,AJ Auxerre,Paris FC,2,0
+2024-05-04,ligue-2,36,EA Guingamp,AS Saint-Étienne,2,2
+2024-05-04,national,32,FC Rouen 1899,Chamois Niortais,4,2
+2024-05-06,ligue-1,32,Lille OSC,Olympique Lyonnais,3,4
+2024-05-10,ligue-1,33,OGC Nice,Havre AC,1,0
+2024-05-10,ligue-1,33,Stade Brestois 29,Stade de Reims,1,1
+2024-05-10,ligue-2,37,AC Ajaccio,Grenoble Foot 38,1,2
+2024-05-10,ligue-2,37,AS Saint-Étienne,Rodez AF,1,1
+2024-05-10,ligue-2,37,Paris FC,EA Guingamp,2,1
+2024-05-10,ligue-2,37,Pau FC,SC Bastia,1,2
+2024-05-10,ligue-2,37,FC Annecy,Angers SCO,1,2
+2024-05-10,ligue-2,37,Valenciennes FC,US Quevilly-Rouen,2,1
+2024-05-10,ligue-2,37,Amiens SC,AJ Auxerre,0,0
+2024-05-10,ligue-2,37,Stade Lavallois,ESTAC Troyes,1,2
+2024-05-10,ligue-2,37,US Concarneau,Girondins Bordeaux,4,2
+2024-05-10,ligue-2,37,USL Dunkerque,SM Caen,2,2
+2024-05-10,national,33,AS Nancy Lorraine,LB Châteauroux,1,3
+2024-05-10,national,33,Dijon FCO,FC Martigues,3,2
+2024-05-10,national,33,Chamois Niortais,Le Mans FC,2,0
+2024-05-10,national,33,Nîmes Olympique,FC Sochaux,4,2
+2024-05-10,national,33,SAS Épinal,FC Villefranche Beaujolais,1,2
+2024-05-10,national,33,SO Cholet,US Avranches,0,2
+2024-05-10,national,33,Marignane Gignac,FC Rouen 1899,2,0
+2024-05-10,national,33,US Orléans,Red Star FC,2,1
+2024-05-10,national,33,FC Versailles,GOAL FC,0,1
+2024-05-12,ligue-1,33,Clermont Foot 63,Olympique Lyonnais,0,1
+2024-05-12,ligue-1,33,FC Nantes,Lille OSC,1,2
+2024-05-12,ligue-1,33,Montpellier HSC,AS Monaco,0,2
+2024-05-12,ligue-1,33,Olympique Marseille,FC Lorient,3,1
+2024-05-12,ligue-1,33,Paris Saint-Germain,Toulouse FC,1,3
+2024-05-12,ligue-1,33,RC Strasbourg,FC Metz,2,1
+2024-05-12,ligue-1,33,Stade Rennais,RC Lens,1,1
+2024-05-15,ligue-1,32,OGC Nice,Paris Saint-Germain,1,2
+2024-05-15,ligue-1,32,Stade de Reims,Olympique Marseille,1,0
+2024-05-17,ligue-2,38,AJ Auxerre,US Concarneau,4,1
+2024-05-17,ligue-2,38,EA Guingamp,Stade Lavallois,0,1
+2024-05-17,ligue-2,38,ESTAC Troyes,FC Annecy,1,1
+2024-05-17,ligue-2,38,Girondins Bordeaux,Pau FC,3,2
+2024-05-17,ligue-2,38,Grenoble Foot 38,Amiens SC,1,3
+2024-05-17,ligue-2,38,Rodez AF,AC Ajaccio,2,0
+2024-05-17,ligue-2,38,SC Bastia,Paris FC,1,1
+2024-05-17,ligue-2,38,Angers SCO,USL Dunkerque,0,0
+2024-05-17,ligue-2,38,SM Caen,Valenciennes FC,3,0
+2024-05-17,ligue-2,38,US Quevilly-Rouen,AS Saint-Étienne,2,1
+2024-05-18,national,34,FC Martigues,Nîmes Olympique,1,0
+2024-05-18,national,34,Red Star FC,SAS Épinal,4,2
+2024-05-18,national,34,FC Sochaux,FC Versailles,1,1
+2024-05-18,national,34,FC Villefranche Beaujolais,AS Nancy Lorraine,2,1
+2024-05-18,national,34,GOAL FC,US Orléans,1,1
+2024-05-18,national,34,LB Châteauroux,SO Cholet,1,2
+2024-05-18,national,34,Le Mans FC,Marignane Gignac,2,1
+2024-05-18,national,34,FC Rouen 1899,Dijon FCO,0,5
+2024-05-18,national,34,US Avranches,Chamois Niortais,1,3
+2024-05-19,ligue-1,34,Havre AC,Olympique Marseille,1,2
+2024-05-19,ligue-1,34,AS Monaco,FC Nantes,4,0
+2024-05-19,ligue-1,34,FC Lorient,Clermont Foot 63,5,0
+2024-05-19,ligue-1,34,FC Metz,Paris Saint-Germain,0,2
+2024-05-19,ligue-1,34,Toulouse FC,Stade Brestois 29,0,3
+2024-05-19,ligue-1,34,Olympique Lyonnais,RC Strasbourg,2,1
+2024-05-19,ligue-1,34,Lille OSC,OGC Nice,2,2
+2024-05-19,ligue-1,34,RC Lens,Montpellier HSC,2,2
+2024-05-19,ligue-1,34,Stade de Reims,Stade Rennais,2,1

@@ -1,0 +1,782 @@
+2019-07-26,ligue-2,1,AC Ajaccio,Havre AC,2,2
+2019-07-26,ligue-2,1,AS Nancy Lorraine,US Orléans,0,0
+2019-07-26,ligue-2,1,Clermont Foot 63,LB Châteauroux,3,0
+2019-07-26,ligue-2,1,EA Guingamp,Grenoble Foot 38,3,3
+2019-07-26,ligue-2,1,FC Chambly,Valenciennes FC,1,0
+2019-07-26,ligue-2,1,Chamois Niortais,ESTAC Troyes,0,2
+2019-07-26,ligue-2,1,FC Sochaux,SM Caen,0,0
+2019-07-26,ligue-2,1,Rodez AF,AJ Auxerre,2,0
+2019-07-27,ligue-2,1,Le Mans FC,RC Lens,1,2
+2019-07-29,ligue-2,1,FC Lorient,Paris FC,3,0
+2019-08-02,ligue-2,2,Havre AC,Chamois Niortais,1,1
+2019-08-02,ligue-2,2,AJ Auxerre,Le Mans FC,2,0
+2019-08-02,ligue-2,2,ESTAC Troyes,Clermont Foot 63,1,2
+2019-08-02,ligue-2,2,Paris FC,FC Sochaux,1,1
+2019-08-02,ligue-2,2,Valenciennes FC,AS Nancy Lorraine,1,1
+2019-08-02,ligue-2,2,Grenoble Foot 38,AC Ajaccio,0,1
+2019-08-02,ligue-2,2,LB Châteauroux,Rodez AF,0,0
+2019-08-02,ligue-2,2,US Orléans,FC Chambly,0,1
+2019-08-02,national,1,Red Star FC,Gazélec FC Ajaccio,3,0
+2019-08-02,national,1,FC Bourg-Péronnas,US Quevilly-Rouen,0,0
+2019-08-02,national,1,Pau FC,SO Cholet,1,1
+2019-08-02,national,1,SC Toulon,AS Béziers,0,0
+2019-08-02,national,1,Stade Lavallois,Le Puy Foot 43,1,0
+2019-08-02,national,1,US Concarneau,US Avranches,2,0
+2019-08-02,national,1,US Créteil-Lusitanos,FC Borgo,0,0
+2019-08-02,national,1,USL Dunkerque,AS Lyon Duchère,3,0
+2019-08-02,national,1,FC Villefranche Beaujolais,US Boulogne,1,0
+2019-08-03,ligue-2,2,RC Lens,EA Guingamp,2,0
+2019-08-05,ligue-2,2,SM Caen,FC Lorient,1,2
+2019-08-09,ligue-1,1,AS Monaco,Olympique Lyonnais,0,3
+2019-08-09,ligue-2,3,AC Ajaccio,SM Caen,1,2
+2019-08-09,ligue-2,3,AS Nancy Lorraine,FC Lorient,1,1
+2019-08-09,ligue-2,3,EA Guingamp,US Orléans,1,0
+2019-08-09,ligue-2,3,ESTAC Troyes,Havre AC,1,2
+2019-08-09,ligue-2,3,FC Chambly,Grenoble Foot 38,0,0
+2019-08-09,ligue-2,3,Chamois Niortais,LB Châteauroux,3,0
+2019-08-09,ligue-2,3,FC Sochaux,AJ Auxerre,1,0
+2019-08-09,ligue-2,3,Le Mans FC,Valenciennes FC,1,2
+2019-08-09,ligue-2,3,Rodez AF,Paris FC,2,1
+2019-08-09,national,2,AS Béziers,FC Bourg-Péronnas,2,1
+2019-08-09,national,2,US Boulogne,Stade Lavallois,1,1
+2019-08-09,national,2,FC Borgo,US Concarneau,2,0
+2019-08-09,national,2,Gazélec FC Ajaccio,US Avranches,0,1
+2019-08-09,national,2,Le Puy Foot 43,US Créteil-Lusitanos,2,3
+2019-08-09,national,2,AS Lyon Duchère,Pau FC,0,0
+2019-08-09,national,2,US Quevilly-Rouen,USL Dunkerque,1,3
+2019-08-09,national,2,Red Star FC,SC Toulon,1,1
+2019-08-09,national,2,SO Cholet,FC Villefranche Beaujolais,1,1
+2019-08-10,ligue-1,1,Olympique Marseille,Stade de Reims,0,2
+2019-08-10,ligue-1,1,Angers SCO,Girondins Bordeaux,3,1
+2019-08-10,ligue-1,1,Dijon FCO,AS Saint-Étienne,1,2
+2019-08-10,ligue-1,1,Montpellier HSC,Stade Rennais,0,1
+2019-08-10,ligue-1,1,OGC Nice,Amiens SC,2,1
+2019-08-10,ligue-1,1,Stade Brestois 29,Toulouse FC,1,1
+2019-08-10,ligue-2,3,Clermont Foot 63,RC Lens,1,1
+2019-08-11,ligue-1,1,Lille OSC,FC Nantes,2,1
+2019-08-11,ligue-1,1,RC Strasbourg,FC Metz,1,1
+2019-08-11,ligue-1,1,Paris Saint-Germain,Nîmes Olympique,3,0
+2019-08-16,ligue-1,2,Olympique Lyonnais,Angers SCO,6,0
+2019-08-16,ligue-2,4,AS Nancy Lorraine,Le Mans FC,2,1
+2019-08-16,ligue-2,4,FC Lorient,FC Sochaux,1,0
+2019-08-16,ligue-2,4,Paris FC,Chamois Niortais,0,1
+2019-08-16,ligue-2,4,Valenciennes FC,Rodez AF,1,0
+2019-08-16,ligue-2,4,Grenoble Foot 38,ESTAC Troyes,1,1
+2019-08-16,ligue-2,4,LB Châteauroux,AC Ajaccio,0,1
+2019-08-16,ligue-2,4,SM Caen,FC Chambly,0,0
+2019-08-16,ligue-2,4,US Orléans,Clermont Foot 63,0,1
+2019-08-16,national,3,Pau FC,US Quevilly-Rouen,4,2
+2019-08-16,national,3,SC Toulon,Gazélec FC Ajaccio,1,1
+2019-08-16,national,3,Stade Lavallois,SO Cholet,2,0
+2019-08-16,national,3,US Avranches,FC Borgo,1,0
+2019-08-16,national,3,US Concarneau,Le Puy Foot 43,1,1
+2019-08-16,national,3,US Créteil-Lusitanos,US Boulogne,1,0
+2019-08-16,national,3,USL Dunkerque,AS Béziers,2,1
+2019-08-16,national,3,FC Villefranche Beaujolais,AS Lyon Duchère,0,2
+2019-08-17,ligue-1,2,FC Nantes,Olympique Marseille,0,0
+2019-08-17,ligue-1,2,FC Metz,AS Monaco,3,0
+2019-08-17,ligue-1,2,Toulouse FC,Dijon FCO,1,0
+2019-08-17,ligue-1,2,Girondins Bordeaux,Montpellier HSC,1,1
+2019-08-17,ligue-1,2,Nîmes Olympique,OGC Nice,1,2
+2019-08-17,ligue-1,2,Amiens SC,Lille OSC,1,0
+2019-08-17,ligue-2,4,RC Lens,Havre AC,1,3
+2019-08-17,national,3,FC Bourg-Péronnas,Red Star FC,1,4
+2019-08-18,ligue-1,2,AS Saint-Étienne,Stade Brestois 29,1,1
+2019-08-18,ligue-1,2,Stade de Reims,RC Strasbourg,0,0
+2019-08-18,ligue-1,2,Stade Rennais,Paris Saint-Germain,2,1
+2019-08-19,ligue-2,4,AJ Auxerre,EA Guingamp,2,2
+2019-08-23,ligue-2,5,AC Ajaccio,Paris FC,1,0
+2019-08-23,ligue-2,5,Havre AC,Grenoble Foot 38,3,1
+2019-08-23,ligue-2,5,Clermont Foot 63,AJ Auxerre,1,1
+2019-08-23,ligue-2,5,FC Chambly,LB Châteauroux,0,0
+2019-08-23,ligue-2,5,Chamois Niortais,SM Caen,1,1
+2019-08-23,ligue-2,5,FC Sochaux,AS Nancy Lorraine,3,0
+2019-08-23,ligue-2,5,Le Mans FC,FC Lorient,1,2
+2019-08-23,ligue-2,5,Rodez AF,US Orléans,3,3
+2019-08-23,national,4,AS Béziers,Pau FC,0,1
+2019-08-23,national,4,US Boulogne,US Concarneau,2,1
+2019-08-23,national,4,Gazélec FC Ajaccio,FC Borgo,0,0
+2019-08-23,national,4,Le Puy Foot 43,US Avranches,1,1
+2019-08-23,national,4,AS Lyon Duchère,Stade Lavallois,2,1
+2019-08-23,national,4,US Quevilly-Rouen,FC Villefranche Beaujolais,0,2
+2019-08-23,national,4,Red Star FC,USL Dunkerque,1,2
+2019-08-23,national,4,SC Toulon,FC Bourg-Péronnas,2,2
+2019-08-23,national,4,SO Cholet,US Créteil-Lusitanos,1,0
+2019-08-24,ligue-1,3,Dijon FCO,Girondins Bordeaux,0,2
+2019-08-24,ligue-1,3,Amiens SC,FC Nantes,1,2
+2019-08-24,ligue-1,3,Angers SCO,FC Metz,3,0
+2019-08-24,ligue-1,3,Stade Brestois 29,Stade de Reims,1,0
+2019-08-24,ligue-2,5,ESTAC Troyes,RC Lens,2,0
+2019-08-25,ligue-1,3,AS Monaco,Nîmes Olympique,2,2
+2019-08-25,ligue-1,3,RC Strasbourg,Stade Rennais,0,2
+2019-08-25,ligue-1,3,Paris Saint-Germain,Toulouse FC,4,0
+2019-08-26,ligue-2,5,EA Guingamp,Valenciennes FC,0,1
+2019-08-27,ligue-1,3,Montpellier HSC,Olympique Lyonnais,1,0
+2019-08-28,ligue-1,3,Lille OSC,AS Saint-Étienne,3,0
+2019-08-28,ligue-1,3,OGC Nice,Olympique Marseille,1,2
+2019-08-30,ligue-1,4,FC Metz,Paris Saint-Germain,0,2
+2019-08-30,ligue-2,6,AJ Auxerre,AC Ajaccio,3,1
+2019-08-30,ligue-2,6,AS Nancy Lorraine,Rodez AF,1,1
+2019-08-30,ligue-2,6,Valenciennes FC,Clermont Foot 63,1,0
+2019-08-30,ligue-2,6,LB Châteauroux,ESTAC Troyes,0,1
+2019-08-30,ligue-2,6,Le Mans FC,FC Sochaux,2,0
+2019-08-30,ligue-2,6,SM Caen,Havre AC,0,3
+2019-08-30,ligue-2,6,US Orléans,Chamois Niortais,0,1
+2019-08-30,national,5,Stade Lavallois,US Quevilly-Rouen,1,1
+2019-08-30,national,5,FC Bourg-Péronnas,Gazélec FC Ajaccio,2,2
+2019-08-30,national,5,FC Borgo,Le Puy Foot 43,2,6
+2019-08-30,national,5,Pau FC,Red Star FC,3,0
+2019-08-30,national,5,US Avranches,US Boulogne,0,1
+2019-08-30,national,5,US Concarneau,SO Cholet,2,2
+2019-08-30,national,5,US Créteil-Lusitanos,AS Lyon Duchère,0,1
+2019-08-30,national,5,USL Dunkerque,SC Toulon,2,1
+2019-08-30,national,5,FC Villefranche Beaujolais,AS Béziers,5,2
+2019-08-31,ligue-1,4,Olympique Lyonnais,Girondins Bordeaux,1,1
+2019-08-31,ligue-1,4,FC Nantes,Montpellier HSC,1,0
+2019-08-31,ligue-1,4,Toulouse FC,Amiens SC,2,0
+2019-08-31,ligue-1,4,Nîmes Olympique,Stade Brestois 29,3,0
+2019-08-31,ligue-1,4,Angers SCO,Dijon FCO,2,0
+2019-08-31,ligue-2,6,FC Lorient,EA Guingamp,0,1
+2019-09-01,ligue-1,4,Stade de Reims,Lille OSC,2,0
+2019-09-01,ligue-1,4,Stade Rennais,OGC Nice,1,2
+2019-09-01,ligue-1,4,RC Strasbourg,AS Monaco,2,2
+2019-09-01,ligue-1,4,Olympique Marseille,AS Saint-Étienne,1,0
+2019-09-02,ligue-2,6,Paris FC,FC Chambly,0,3
+2019-09-02,ligue-2,6,Grenoble Foot 38,RC Lens,2,2
+2019-09-06,national,6,SC Toulon,Pau FC,0,0
+2019-09-06,national,6,AS Béziers,Stade Lavallois,2,2
+2019-09-06,national,6,US Boulogne,FC Borgo,2,1
+2019-09-06,national,6,FC Bourg-Péronnas,USL Dunkerque,1,0
+2019-09-06,national,6,Gazélec FC Ajaccio,Le Puy Foot 43,2,0
+2019-09-06,national,6,AS Lyon Duchère,US Concarneau,1,1
+2019-09-06,national,6,US Quevilly-Rouen,US Créteil-Lusitanos,0,3
+2019-09-06,national,6,Red Star FC,FC Villefranche Beaujolais,0,2
+2019-09-06,national,6,SO Cholet,US Avranches,1,2
+2019-09-13,ligue-1,5,Lille OSC,Angers SCO,2,1
+2019-09-13,ligue-1,5,Amiens SC,Olympique Lyonnais,2,2
+2019-09-13,ligue-2,7,AC Ajaccio,US Orléans,0,0
+2019-09-13,ligue-2,7,Havre AC,Paris FC,0,0
+2019-09-13,ligue-2,7,EA Guingamp,AS Nancy Lorraine,1,1
+2019-09-13,ligue-2,7,ESTAC Troyes,SM Caen,2,1
+2019-09-13,ligue-2,7,FC Chambly,AJ Auxerre,1,4
+2019-09-13,ligue-2,7,Chamois Niortais,Grenoble Foot 38,0,1
+2019-09-13,ligue-2,7,FC Sochaux,Valenciennes FC,0,0
+2019-09-13,ligue-2,7,Rodez AF,Le Mans FC,4,1
+2019-09-13,national,7,Stade Lavallois,Red Star FC,0,2
+2019-09-13,national,7,FC Borgo,SO Cholet,3,2
+2019-09-13,national,7,Le Puy Foot 43,US Boulogne,0,2
+2019-09-13,national,7,Pau FC,FC Bourg-Péronnas,2,1
+2019-09-13,national,7,US Avranches,AS Lyon Duchère,2,1
+2019-09-13,national,7,US Concarneau,US Quevilly-Rouen,0,0
+2019-09-13,national,7,US Créteil-Lusitanos,AS Béziers,3,1
+2019-09-13,national,7,USL Dunkerque,Gazélec FC Ajaccio,0,1
+2019-09-13,national,7,FC Villefranche Beaujolais,SC Toulon,2,1
+2019-09-14,ligue-1,5,Paris Saint-Germain,RC Strasbourg,1,0
+2019-09-14,ligue-1,5,Dijon FCO,Nîmes Olympique,0,0
+2019-09-14,ligue-1,5,Girondins Bordeaux,FC Metz,2,0
+2019-09-14,ligue-1,5,Montpellier HSC,OGC Nice,2,1
+2019-09-14,ligue-1,5,Stade Brestois 29,Stade Rennais,0,0
+2019-09-14,ligue-2,7,Clermont Foot 63,FC Lorient,0,2
+2019-09-15,ligue-1,5,FC Nantes,Stade de Reims,1,0
+2019-09-15,ligue-1,5,AS Saint-Étienne,Toulouse FC,2,2
+2019-09-15,ligue-1,5,AS Monaco,Olympique Marseille,3,4
+2019-09-16,ligue-2,7,RC Lens,LB Châteauroux,1,0
+2019-09-20,ligue-1,6,RC Strasbourg,FC Nantes,2,1
+2019-09-20,ligue-2,8,AJ Auxerre,ESTAC Troyes,1,2
+2019-09-20,ligue-2,8,AS Nancy Lorraine,FC Chambly,3,0
+2019-09-20,ligue-2,8,Paris FC,Clermont Foot 63,0,2
+2019-09-20,ligue-2,8,FC Sochaux,EA Guingamp,3,1
+2019-09-20,ligue-2,8,Valenciennes FC,Chamois Niortais,1,1
+2019-09-20,ligue-2,8,LB Châteauroux,Grenoble Foot 38,1,1
+2019-09-20,ligue-2,8,Le Mans FC,AC Ajaccio,2,4
+2019-09-20,ligue-2,8,US Orléans,Havre AC,2,2
+2019-09-20,national,8,SC Toulon,Stade Lavallois,0,1
+2019-09-20,national,8,AS Béziers,US Concarneau,1,0
+2019-09-20,national,8,FC Bourg-Péronnas,FC Villefranche Beaujolais,2,0
+2019-09-20,national,8,Gazélec FC Ajaccio,US Boulogne,0,0
+2019-09-20,national,8,AS Lyon Duchère,FC Borgo,0,0
+2019-09-20,national,8,US Quevilly-Rouen,US Avranches,0,1
+2019-09-20,national,8,Red Star FC,US Créteil-Lusitanos,0,0
+2019-09-20,national,8,SO Cholet,Le Puy Foot 43,2,1
+2019-09-20,national,8,USL Dunkerque,Pau FC,4,1
+2019-09-21,ligue-1,6,Olympique Marseille,Montpellier HSC,1,1
+2019-09-21,ligue-1,6,FC Metz,Amiens SC,1,2
+2019-09-21,ligue-1,6,Girondins Bordeaux,Stade Brestois 29,2,2
+2019-09-21,ligue-1,6,OGC Nice,Dijon FCO,2,1
+2019-09-21,ligue-1,6,Nîmes Olympique,Toulouse FC,1,0
+2019-09-21,ligue-1,6,Stade de Reims,AS Monaco,0,0
+2019-09-21,ligue-2,8,SM Caen,RC Lens,0,2
+2019-09-22,ligue-1,6,Stade Rennais,Lille OSC,1,1
+2019-09-22,ligue-1,6,Angers SCO,AS Saint-Étienne,4,1
+2019-09-22,ligue-1,6,Olympique Lyonnais,Paris Saint-Germain,0,1
+2019-09-23,ligue-2,8,FC Lorient,Rodez AF,2,1
+2019-09-24,ligue-1,7,Dijon FCO,Olympique Marseille,0,0
+2019-09-24,ligue-1,7,AS Monaco,OGC Nice,3,1
+2019-09-25,ligue-1,7,AS Saint-Étienne,FC Metz,0,1
+2019-09-25,ligue-1,7,FC Nantes,Stade Rennais,1,0
+2019-09-25,ligue-1,7,Toulouse FC,Angers SCO,0,2
+2019-09-25,ligue-1,7,Montpellier HSC,Nîmes Olympique,1,0
+2019-09-25,ligue-1,7,Lille OSC,RC Strasbourg,2,0
+2019-09-25,ligue-1,7,Amiens SC,Girondins Bordeaux,1,3
+2019-09-25,ligue-1,7,Stade Brestois 29,Olympique Lyonnais,2,2
+2019-09-25,ligue-1,7,Paris Saint-Germain,Stade de Reims,0,2
+2019-09-27,ligue-2,9,AC Ajaccio,Valenciennes FC,2,0
+2019-09-27,ligue-2,9,Havre AC,LB Châteauroux,0,1
+2019-09-27,ligue-2,9,Clermont Foot 63,AS Nancy Lorraine,2,2
+2019-09-27,ligue-2,9,ESTAC Troyes,US Orléans,1,2
+2019-09-27,ligue-2,9,FC Chambly,FC Lorient,0,1
+2019-09-27,ligue-2,9,Chamois Niortais,AJ Auxerre,2,2
+2019-09-27,ligue-2,9,Grenoble Foot 38,SM Caen,1,0
+2019-09-27,ligue-2,9,Rodez AF,FC Sochaux,0,2
+2019-09-27,national,9,FC Villefranche Beaujolais,USL Dunkerque,0,0
+2019-09-27,national,9,US Boulogne,SO Cholet,1,2
+2019-09-27,national,9,FC Borgo,US Quevilly-Rouen,3,2
+2019-09-27,national,9,Le Puy Foot 43,AS Lyon Duchère,1,2
+2019-09-27,national,9,Pau FC,Gazélec FC Ajaccio,4,0
+2019-09-27,national,9,Stade Lavallois,FC Bourg-Péronnas,0,1
+2019-09-27,national,9,US Avranches,AS Béziers,1,1
+2019-09-27,national,9,US Concarneau,Red Star FC,2,1
+2019-09-27,national,9,US Créteil-Lusitanos,SC Toulon,1,1
+2019-09-28,ligue-1,8,Olympique Lyonnais,FC Nantes,0,1
+2019-09-28,ligue-1,8,Girondins Bordeaux,Paris Saint-Germain,0,1
+2019-09-28,ligue-1,8,AS Monaco,Stade Brestois 29,4,1
+2019-09-28,ligue-1,8,FC Metz,Toulouse FC,2,2
+2019-09-28,ligue-1,8,OGC Nice,Lille OSC,1,1
+2019-09-28,ligue-1,8,Angers SCO,Amiens SC,1,1
+2019-09-28,ligue-1,8,Stade de Reims,Dijon FCO,1,2
+2019-09-28,ligue-2,9,RC Lens,Paris FC,2,1
+2019-09-29,ligue-1,8,RC Strasbourg,Montpellier HSC,1,0
+2019-09-29,ligue-1,8,Nîmes Olympique,AS Saint-Étienne,0,1
+2019-09-29,ligue-1,8,Olympique Marseille,Stade Rennais,1,1
+2019-09-30,ligue-2,9,EA Guingamp,Le Mans FC,3,0
+2019-10-04,ligue-1,9,Amiens SC,Olympique Marseille,3,1
+2019-10-04,ligue-2,10,AS Nancy Lorraine,Chamois Niortais,2,1
+2019-10-04,ligue-2,10,EA Guingamp,Rodez AF,4,1
+2019-10-04,ligue-2,10,FC Lorient,AC Ajaccio,0,0
+2019-10-04,ligue-2,10,Paris FC,ESTAC Troyes,1,0
+2019-10-04,ligue-2,10,FC Sochaux,Clermont Foot 63,4,0
+2019-10-04,ligue-2,10,Valenciennes FC,Grenoble Foot 38,0,2
+2019-10-04,ligue-2,10,Le Mans FC,FC Chambly,1,0
+2019-10-04,ligue-2,10,SM Caen,LB Châteauroux,1,1
+2019-10-04,national,10,USL Dunkerque,Stade Lavallois,1,2
+2019-10-04,national,10,AS Béziers,FC Borgo,1,1
+2019-10-04,national,10,FC Bourg-Péronnas,US Créteil-Lusitanos,0,0
+2019-10-04,national,10,Gazélec FC Ajaccio,SO Cholet,1,1
+2019-10-04,national,10,AS Lyon Duchère,US Boulogne,2,0
+2019-10-04,national,10,Pau FC,FC Villefranche Beaujolais,1,1
+2019-10-04,national,10,US Quevilly-Rouen,Le Puy Foot 43,3,0
+2019-10-04,national,10,Red Star FC,US Avranches,2,0
+2019-10-04,national,10,SC Toulon,US Concarneau,0,1
+2019-10-05,ligue-1,9,Paris Saint-Germain,Angers SCO,4,0
+2019-10-05,ligue-1,9,Dijon FCO,RC Strasbourg,1,0
+2019-10-05,ligue-1,9,FC Nantes,OGC Nice,1,0
+2019-10-05,ligue-1,9,Toulouse FC,Girondins Bordeaux,1,3
+2019-10-05,ligue-1,9,Montpellier HSC,AS Monaco,3,1
+2019-10-05,ligue-1,9,Stade Brestois 29,FC Metz,2,0
+2019-10-05,ligue-2,10,AJ Auxerre,Havre AC,2,0
+2019-10-06,ligue-1,9,Lille OSC,Nîmes Olympique,2,2
+2019-10-06,ligue-1,9,Stade Rennais,Stade de Reims,0,1
+2019-10-06,ligue-1,9,AS Saint-Étienne,Olympique Lyonnais,1,0
+2019-10-07,ligue-2,10,US Orléans,RC Lens,1,4
+2019-10-18,ligue-1,10,OGC Nice,Paris Saint-Germain,1,4
+2019-10-18,ligue-2,11,AC Ajaccio,AS Nancy Lorraine,0,0
+2019-10-18,ligue-2,11,Clermont Foot 63,Rodez AF,0,1
+2019-10-18,ligue-2,11,ESTAC Troyes,Le Mans FC,2,1
+2019-10-18,ligue-2,11,FC Chambly,FC Sochaux,0,0
+2019-10-18,ligue-2,11,Chamois Niortais,EA Guingamp,0,0
+2019-10-18,ligue-2,11,Grenoble Foot 38,US Orléans,0,0
+2019-10-18,ligue-2,11,LB Châteauroux,Paris FC,0,1
+2019-10-18,ligue-2,11,SM Caen,Valenciennes FC,0,0
+2019-10-18,national,11,US Avranches,SC Toulon,2,1
+2019-10-18,national,11,US Boulogne,US Quevilly-Rouen,2,0
+2019-10-18,national,11,FC Borgo,Red Star FC,0,1
+2019-10-18,national,11,Le Puy Foot 43,AS Béziers,0,0
+2019-10-18,national,11,SO Cholet,AS Lyon Duchère,3,0
+2019-10-18,national,11,Stade Lavallois,Pau FC,0,1
+2019-10-18,national,11,US Concarneau,FC Bourg-Péronnas,0,1
+2019-10-18,national,11,US Créteil-Lusitanos,USL Dunkerque,0,1
+2019-10-18,national,11,FC Villefranche Beaujolais,Gazélec FC Ajaccio,2,0
+2019-10-19,ligue-1,10,Olympique Lyonnais,Dijon FCO,0,0
+2019-10-19,ligue-1,10,FC Metz,FC Nantes,1,0
+2019-10-19,ligue-1,10,Toulouse FC,Lille OSC,2,1
+2019-10-19,ligue-1,10,Nîmes Olympique,Amiens SC,1,1
+2019-10-19,ligue-1,10,Angers SCO,Stade Brestois 29,0,1
+2019-10-19,ligue-1,10,Stade de Reims,Montpellier HSC,1,0
+2019-10-19,ligue-2,11,Havre AC,FC Lorient,2,2
+2019-10-20,ligue-1,10,Girondins Bordeaux,AS Saint-Étienne,0,1
+2019-10-20,ligue-1,10,AS Monaco,Stade Rennais,3,2
+2019-10-20,ligue-1,10,Olympique Marseille,RC Strasbourg,2,0
+2019-10-21,ligue-2,11,RC Lens,AJ Auxerre,0,0
+2019-10-25,ligue-1,11,FC Nantes,AS Monaco,0,1
+2019-10-25,ligue-2,12,AJ Auxerre,Grenoble Foot 38,0,1
+2019-10-25,ligue-2,12,AS Nancy Lorraine,RC Lens,0,0
+2019-10-25,ligue-2,12,EA Guingamp,Clermont Foot 63,1,2
+2019-10-25,ligue-2,12,Paris FC,SM Caen,2,4
+2019-10-25,ligue-2,12,FC Sochaux,AC Ajaccio,0,2
+2019-10-25,ligue-2,12,Le Mans FC,Chamois Niortais,1,0
+2019-10-25,ligue-2,12,US Orléans,LB Châteauroux,1,1
+2019-10-25,ligue-2,12,Rodez AF,FC Chambly,2,0
+2019-10-26,ligue-1,11,Lille OSC,Girondins Bordeaux,3,0
+2019-10-26,ligue-1,11,Montpellier HSC,Angers SCO,0,0
+2019-10-26,ligue-1,11,Olympique Lyonnais,FC Metz,2,0
+2019-10-26,ligue-1,11,RC Strasbourg,OGC Nice,1,0
+2019-10-26,ligue-1,11,Stade Brestois 29,Dijon FCO,2,0
+2019-10-26,ligue-1,11,Stade de Reims,Nîmes Olympique,0,0
+2019-10-26,ligue-2,12,FC Lorient,ESTAC Troyes,0,1
+2019-10-27,ligue-1,11,Stade Rennais,Toulouse FC,3,2
+2019-10-27,ligue-1,11,AS Saint-Étienne,Amiens SC,2,2
+2019-10-27,ligue-1,11,Paris Saint-Germain,Olympique Marseille,4,0
+2019-10-28,ligue-2,12,Valenciennes FC,Havre AC,0,0
+2019-11-01,ligue-1,12,Dijon FCO,Paris Saint-Germain,2,1
+2019-11-01,ligue-2,13,AC Ajaccio,Rodez AF,1,0
+2019-11-01,ligue-2,13,ESTAC Troyes,Valenciennes FC,1,0
+2019-11-01,ligue-2,13,FC Chambly,EA Guingamp,1,5
+2019-11-01,ligue-2,13,LB Châteauroux,AJ Auxerre,1,0
+2019-11-01,ligue-2,13,SM Caen,US Orléans,2,1
+2019-11-01,national,12,Pau FC,US Créteil-Lusitanos,3,3
+2019-11-01,national,12,AS Béziers,US Boulogne,2,0
+2019-11-01,national,12,Gazélec FC Ajaccio,AS Lyon Duchère,1,3
+2019-11-01,national,12,US Quevilly-Rouen,SO Cholet,2,0
+2019-11-01,national,12,Red Star FC,Le Puy Foot 43,1,0
+2019-11-01,national,12,SC Toulon,FC Borgo,2,2
+2019-11-01,national,12,USL Dunkerque,US Concarneau,2,0
+2019-11-01,national,12,FC Villefranche Beaujolais,Stade Lavallois,1,1
+2019-11-02,ligue-1,12,Olympique Marseille,Lille OSC,2,1
+2019-11-02,ligue-1,12,FC Metz,Montpellier HSC,2,2
+2019-11-02,ligue-1,12,Toulouse FC,Olympique Lyonnais,2,3
+2019-11-02,ligue-1,12,Amiens SC,Stade Brestois 29,1,0
+2019-11-02,ligue-1,12,Angers SCO,RC Strasbourg,1,0
+2019-11-02,ligue-2,13,Clermont Foot 63,Le Mans FC,0,1
+2019-11-02,ligue-2,13,Chamois Niortais,FC Sochaux,0,2
+2019-11-02,ligue-2,13,Grenoble Foot 38,Paris FC,0,0
+2019-11-02,ligue-2,13,RC Lens,FC Lorient,1,0
+2019-11-02,national,12,FC Bourg-Péronnas,US Avranches,1,1
+2019-11-03,ligue-1,12,Girondins Bordeaux,FC Nantes,2,0
+2019-11-03,ligue-1,12,OGC Nice,Stade de Reims,2,0
+2019-11-03,ligue-1,12,AS Saint-Étienne,AS Monaco,1,0
+2019-11-04,ligue-2,13,Havre AC,AS Nancy Lorraine,1,1
+2019-11-08,ligue-1,13,OGC Nice,Girondins Bordeaux,1,1
+2019-11-08,ligue-2,14,AJ Auxerre,SM Caen,1,1
+2019-11-08,ligue-2,14,AS Nancy Lorraine,ESTAC Troyes,0,0
+2019-11-08,ligue-2,14,FC Chambly,Clermont Foot 63,0,1
+2019-11-08,ligue-2,14,FC Lorient,Chamois Niortais,4,1
+2019-11-08,ligue-2,14,FC Sochaux,Havre AC,2,0
+2019-11-08,ligue-2,14,Valenciennes FC,LB Châteauroux,0,1
+2019-11-08,ligue-2,14,Le Mans FC,Grenoble Foot 38,0,0
+2019-11-08,ligue-2,14,US Orléans,Paris FC,0,1
+2019-11-08,national,13,US Avranches,USL Dunkerque,2,0
+2019-11-08,national,13,US Boulogne,Red Star FC,0,1
+2019-11-08,national,13,FC Borgo,FC Bourg-Péronnas,1,2
+2019-11-08,national,13,Le Puy Foot 43,SC Toulon,0,0
+2019-11-08,national,13,AS Lyon Duchère,US Quevilly-Rouen,1,2
+2019-11-08,national,13,SO Cholet,AS Béziers,2,1
+2019-11-08,national,13,Stade Lavallois,Gazélec FC Ajaccio,2,0
+2019-11-08,national,13,US Concarneau,Pau FC,0,1
+2019-11-08,national,13,US Créteil-Lusitanos,FC Villefranche Beaujolais,2,2
+2019-11-09,ligue-1,13,Stade Brestois 29,Paris Saint-Germain,1,2
+2019-11-09,ligue-1,13,AS Monaco,Dijon FCO,1,0
+2019-11-09,ligue-1,13,Lille OSC,FC Metz,0,0
+2019-11-09,ligue-1,13,RC Strasbourg,Nîmes Olympique,4,1
+2019-11-09,ligue-1,13,Stade de Reims,Angers SCO,0,0
+2019-11-09,ligue-2,14,EA Guingamp,AC Ajaccio,1,1
+2019-11-10,ligue-1,13,Stade Rennais,Amiens SC,3,1
+2019-11-10,ligue-1,13,FC Nantes,AS Saint-Étienne,2,3
+2019-11-10,ligue-1,13,Montpellier HSC,Toulouse FC,3,0
+2019-11-10,ligue-1,13,Olympique Marseille,Olympique Lyonnais,2,1
+2019-11-11,ligue-2,14,Rodez AF,RC Lens,1,2
+2019-11-22,ligue-1,14,Paris Saint-Germain,Lille OSC,2,0
+2019-11-22,ligue-2,15,AC Ajaccio,Clermont Foot 63,1,1
+2019-11-22,ligue-2,15,ESTAC Troyes,FC Chambly,0,4
+2019-11-22,ligue-2,15,Chamois Niortais,Rodez AF,2,1
+2019-11-22,ligue-2,15,Paris FC,AJ Auxerre,2,0
+2019-11-22,ligue-2,15,Grenoble Foot 38,AS Nancy Lorraine,1,1
+2019-11-22,ligue-2,15,LB Châteauroux,FC Lorient,1,3
+2019-11-22,ligue-2,15,SM Caen,Le Mans FC,3,3
+2019-11-22,ligue-2,15,US Orléans,Valenciennes FC,0,1
+2019-11-22,national,14,Pau FC,US Avranches,1,0
+2019-11-22,national,14,AS Béziers,AS Lyon Duchère,1,4
+2019-11-22,national,14,FC Bourg-Péronnas,Le Puy Foot 43,4,0
+2019-11-22,national,14,Gazélec FC Ajaccio,US Quevilly-Rouen,0,0
+2019-11-22,national,14,Red Star FC,SO Cholet,2,1
+2019-11-22,national,14,Stade Lavallois,US Créteil-Lusitanos,0,0
+2019-11-22,national,14,USL Dunkerque,FC Borgo,2,2
+2019-11-22,national,14,FC Villefranche Beaujolais,US Concarneau,0,0
+2019-11-23,ligue-1,14,Olympique Lyonnais,OGC Nice,2,1
+2019-11-23,ligue-1,14,Dijon FCO,Stade Rennais,2,1
+2019-11-23,ligue-1,14,FC Metz,Stade de Reims,1,1
+2019-11-23,ligue-1,14,Amiens SC,RC Strasbourg,0,4
+2019-11-23,ligue-1,14,Angers SCO,Nîmes Olympique,1,0
+2019-11-23,ligue-1,14,Stade Brestois 29,FC Nantes,1,1
+2019-11-23,ligue-2,15,RC Lens,FC Sochaux,4,0
+2019-11-24,ligue-1,14,Girondins Bordeaux,AS Monaco,2,1
+2019-11-24,ligue-1,14,AS Saint-Étienne,Montpellier HSC,0,0
+2019-11-24,ligue-1,14,Toulouse FC,Olympique Marseille,0,2
+2019-11-25,ligue-2,15,Havre AC,EA Guingamp,4,0
+2019-11-29,ligue-1,15,Olympique Marseille,Stade Brestois 29,2,1
+2019-11-29,ligue-2,16,AJ Auxerre,US Orléans,2,2
+2019-11-29,ligue-2,16,AS Nancy Lorraine,Paris FC,2,0
+2019-11-29,ligue-2,16,Clermont Foot 63,Chamois Niortais,1,0
+2019-11-29,ligue-2,16,EA Guingamp,SM Caen,1,1
+2019-11-29,ligue-2,16,FC Chambly,AC Ajaccio,0,2
+2019-11-29,ligue-2,16,FC Lorient,Grenoble Foot 38,2,1
+2019-11-29,ligue-2,16,Valenciennes FC,RC Lens,2,0
+2019-11-29,ligue-2,16,Le Mans FC,LB Châteauroux,1,2
+2019-11-29,ligue-2,16,Rodez AF,Havre AC,1,2
+2019-11-29,national,15,AS Lyon Duchère,Red Star FC,3,1
+2019-11-29,national,15,US Boulogne,FC Bourg-Péronnas,1,0
+2019-11-29,national,15,FC Borgo,Pau FC,1,2
+2019-11-29,national,15,Le Puy Foot 43,USL Dunkerque,1,2
+2019-11-29,national,15,US Quevilly-Rouen,AS Béziers,2,2
+2019-11-29,national,15,SO Cholet,SC Toulon,2,0
+2019-11-29,national,15,US Avranches,FC Villefranche Beaujolais,0,1
+2019-11-29,national,15,US Concarneau,Stade Lavallois,0,1
+2019-11-29,national,15,US Créteil-Lusitanos,Gazélec FC Ajaccio,2,0
+2019-11-30,ligue-1,15,RC Strasbourg,Olympique Lyonnais,1,2
+2019-11-30,ligue-1,15,Montpellier HSC,Amiens SC,4,2
+2019-11-30,ligue-1,15,OGC Nice,Angers SCO,3,1
+2019-11-30,ligue-1,15,Nîmes Olympique,FC Metz,1,1
+2019-11-30,ligue-1,15,Lille OSC,Dijon FCO,1,0
+2019-11-30,ligue-1,15,Stade de Reims,Girondins Bordeaux,1,1
+2019-11-30,ligue-2,16,FC Sochaux,ESTAC Troyes,0,1
+2019-12-01,ligue-1,15,FC Nantes,Toulouse FC,2,1
+2019-12-01,ligue-1,15,Stade Rennais,AS Saint-Étienne,2,1
+2019-12-02,ligue-2,17,SM Caen,AS Nancy Lorraine,1,0
+2019-12-03,ligue-1,16,Girondins Bordeaux,Nîmes Olympique,6,0
+2019-12-03,ligue-1,16,Angers SCO,Olympique Marseille,0,2
+2019-12-03,ligue-1,16,Stade Brestois 29,RC Strasbourg,5,0
+2019-12-03,ligue-1,16,Olympique Lyonnais,Lille OSC,0,1
+2019-12-03,ligue-2,17,Havre AC,Le Mans FC,2,0
+2019-12-03,ligue-2,17,AJ Auxerre,Valenciennes FC,1,1
+2019-12-03,ligue-2,17,ESTAC Troyes,Rodez AF,1,0
+2019-12-03,ligue-2,17,Chamois Niortais,AC Ajaccio,0,1
+2019-12-03,ligue-2,17,Paris FC,EA Guingamp,0,3
+2019-12-03,ligue-2,17,Grenoble Foot 38,Clermont Foot 63,1,1
+2019-12-03,ligue-2,17,LB Châteauroux,FC Sochaux,1,1
+2019-12-03,ligue-2,17,RC Lens,FC Chambly,3,0
+2019-12-03,ligue-2,17,US Orléans,FC Lorient,0,4
+2019-12-04,ligue-1,16,AS Saint-Étienne,OGC Nice,4,1
+2019-12-04,ligue-1,16,Dijon FCO,Montpellier HSC,2,2
+2019-12-04,ligue-1,16,FC Metz,Stade Rennais,0,1
+2019-12-04,ligue-1,16,Toulouse FC,AS Monaco,1,2
+2019-12-04,ligue-1,16,Paris Saint-Germain,FC Nantes,2,0
+2019-12-06,ligue-1,17,Lille OSC,Stade Brestois 29,1,0
+2019-12-06,ligue-1,17,Nîmes Olympique,Olympique Lyonnais,0,4
+2019-12-06,national,14,SC Toulon,US Boulogne,1,2
+2019-12-07,ligue-1,17,Montpellier HSC,Paris Saint-Germain,1,3
+2019-12-07,ligue-1,17,AS Monaco,Amiens SC,3,0
+2019-12-07,ligue-1,17,OGC Nice,FC Metz,4,1
+2019-12-07,ligue-1,17,RC Strasbourg,Toulouse FC,4,2
+2019-12-07,ligue-1,17,Stade Rennais,Angers SCO,2,1
+2019-12-08,ligue-1,17,Stade de Reims,AS Saint-Étienne,3,1
+2019-12-08,ligue-1,17,FC Nantes,Dijon FCO,1,0
+2019-12-08,ligue-1,17,Olympique Marseille,Girondins Bordeaux,3,1
+2019-12-13,ligue-1,18,Lille OSC,Montpellier HSC,2,1
+2019-12-13,ligue-2,18,AS Nancy Lorraine,LB Châteauroux,2,1
+2019-12-13,ligue-2,18,Clermont Foot 63,Havre AC,2,1
+2019-12-13,ligue-2,18,FC Chambly,Chamois Niortais,3,2
+2019-12-13,ligue-2,18,FC Lorient,AJ Auxerre,1,0
+2019-12-13,ligue-2,18,FC Sochaux,Grenoble Foot 38,1,1
+2019-12-13,ligue-2,18,Valenciennes FC,Paris FC,1,0
+2019-12-13,ligue-2,18,Le Mans FC,US Orléans,3,2
+2019-12-13,ligue-2,18,Rodez AF,SM Caen,2,1
+2019-12-13,national,16,USL Dunkerque,US Boulogne,1,1
+2019-12-13,national,16,FC Bourg-Péronnas,SO Cholet,3,1
+2019-12-13,national,16,Red Star FC,US Quevilly-Rouen,1,0
+2019-12-13,national,16,SC Toulon,AS Lyon Duchère,1,1
+2019-12-13,national,16,Stade Lavallois,US Avranches,3,0
+2019-12-13,national,16,US Créteil-Lusitanos,US Concarneau,4,2
+2019-12-13,national,16,FC Villefranche Beaujolais,FC Borgo,4,1
+2019-12-14,ligue-1,18,FC Metz,Olympique Marseille,1,1
+2019-12-14,ligue-1,18,Toulouse FC,Stade de Reims,0,1
+2019-12-14,ligue-1,18,Nîmes Olympique,FC Nantes,0,1
+2019-12-14,ligue-1,18,Amiens SC,Dijon FCO,1,1
+2019-12-14,ligue-1,18,Angers SCO,AS Monaco,0,0
+2019-12-14,ligue-1,18,Stade Brestois 29,OGC Nice,0,0
+2019-12-14,ligue-2,18,AC Ajaccio,RC Lens,1,2
+2019-12-14,national,16,Pau FC,Le Puy Foot 43,2,3
+2019-12-15,ligue-1,18,Girondins Bordeaux,RC Strasbourg,0,1
+2019-12-15,ligue-1,18,Olympique Lyonnais,Stade Rennais,0,1
+2019-12-15,ligue-1,18,AS Saint-Étienne,Paris Saint-Germain,0,4
+2019-12-16,ligue-2,18,EA Guingamp,ESTAC Troyes,0,1
+2019-12-20,ligue-2,19,Havre AC,FC Chambly,1,1
+2019-12-20,ligue-2,19,AJ Auxerre,AS Nancy Lorraine,0,0
+2019-12-20,ligue-2,19,Valenciennes FC,FC Lorient,3,0
+2019-12-20,ligue-2,19,Grenoble Foot 38,Rodez AF,2,1
+2019-12-20,ligue-2,19,LB Châteauroux,EA Guingamp,1,5
+2019-12-20,ligue-2,19,SM Caen,Clermont Foot 63,0,0
+2019-12-20,ligue-2,19,US Orléans,FC Sochaux,1,0
+2019-12-20,national,17,US Boulogne,Pau FC,0,0
+2019-12-20,national,17,AS Béziers,Red Star FC,1,3
+2019-12-20,national,17,FC Borgo,Stade Lavallois,0,0
+2019-12-20,national,17,Le Puy Foot 43,FC Villefranche Beaujolais,1,1
+2019-12-20,national,17,AS Lyon Duchère,FC Bourg-Péronnas,5,1
+2019-12-20,national,17,US Quevilly-Rouen,SC Toulon,2,0
+2019-12-20,national,17,SO Cholet,USL Dunkerque,0,4
+2019-12-20,national,17,US Avranches,US Créteil-Lusitanos,2,1
+2019-12-21,ligue-1,19,AS Monaco,Lille OSC,5,1
+2019-12-21,ligue-1,19,Dijon FCO,FC Metz,2,2
+2019-12-21,ligue-1,19,FC Nantes,Angers SCO,1,2
+2019-12-21,ligue-1,19,Montpellier HSC,Stade Brestois 29,4,0
+2019-12-21,ligue-1,19,OGC Nice,Toulouse FC,3,0
+2019-12-21,ligue-1,19,Olympique Marseille,Nîmes Olympique,3,1
+2019-12-21,ligue-1,19,Paris Saint-Germain,Amiens SC,4,1
+2019-12-21,ligue-1,19,RC Strasbourg,AS Saint-Étienne,2,1
+2019-12-21,ligue-1,19,Stade de Reims,Olympique Lyonnais,1,1
+2019-12-21,ligue-1,19,Stade Rennais,Girondins Bordeaux,1,0
+2019-12-21,ligue-2,19,Paris FC,Le Mans FC,0,3
+2019-12-21,ligue-2,19,RC Lens,Chamois Niortais,1,0
+2019-12-21,ligue-2,19,ESTAC Troyes,AC Ajaccio,2,1
+2020-01-10,ligue-1,20,Stade Rennais,Olympique Marseille,0,1
+2020-01-10,ligue-2,20,AC Ajaccio,Grenoble Foot 38,3,1
+2020-01-10,ligue-2,20,AS Nancy Lorraine,Valenciennes FC,1,0
+2020-01-10,ligue-2,20,Clermont Foot 63,ESTAC Troyes,3,2
+2020-01-10,ligue-2,20,FC Chambly,US Orléans,1,0
+2020-01-10,ligue-2,20,Chamois Niortais,Havre AC,0,1
+2020-01-10,ligue-2,20,FC Sochaux,Paris FC,1,1
+2020-01-10,ligue-2,20,Le Mans FC,AJ Auxerre,0,1
+2020-01-10,ligue-2,20,Rodez AF,LB Châteauroux,1,2
+2020-01-10,national,18,Pau FC,AS Lyon Duchère,1,1
+2020-01-10,national,18,FC Bourg-Péronnas,AS Béziers,2,2
+2020-01-10,national,18,SC Toulon,Red Star FC,0,1
+2020-01-10,national,18,Stade Lavallois,US Boulogne,0,3
+2020-01-10,national,18,US Avranches,Gazélec FC Ajaccio,2,0
+2020-01-10,national,18,US Concarneau,FC Borgo,0,0
+2020-01-10,national,18,US Créteil-Lusitanos,Le Puy Foot 43,0,2
+2020-01-10,national,18,USL Dunkerque,US Quevilly-Rouen,3,2
+2020-01-10,national,18,FC Villefranche Beaujolais,SO Cholet,3,2
+2020-01-11,ligue-1,20,Girondins Bordeaux,Olympique Lyonnais,1,2
+2020-01-11,ligue-1,20,FC Metz,RC Strasbourg,1,0
+2020-01-11,ligue-1,20,Toulouse FC,Stade Brestois 29,2,5
+2020-01-11,ligue-1,20,Nîmes Olympique,Stade de Reims,2,0
+2020-01-11,ligue-1,20,Amiens SC,Montpellier HSC,1,2
+2020-01-11,ligue-1,20,Angers SCO,OGC Nice,1,1
+2020-01-12,ligue-1,20,AS Saint-Étienne,FC Nantes,0,2
+2020-01-12,ligue-1,20,Dijon FCO,Lille OSC,1,0
+2020-01-12,ligue-1,20,Paris Saint-Germain,AS Monaco,3,3
+2020-01-13,ligue-2,20,FC Lorient,SM Caen,2,1
+2020-01-15,ligue-1,12,Nîmes Olympique,Stade Rennais,0,1
+2020-01-15,ligue-1,15,AS Monaco,Paris Saint-Germain,1,4
+2020-01-15,ligue-1,16,Amiens SC,Stade de Reims,1,1
+2020-01-17,national,16,Gazélec FC Ajaccio,AS Béziers,0,1
+2020-01-18,ligue-2,20,EA Guingamp,RC Lens,1,1
+2020-01-23,national,19,AS Béziers,USL Dunkerque,1,2
+2020-01-24,ligue-1,21,OGC Nice,Stade Rennais,1,1
+2020-01-24,ligue-2,21,AJ Auxerre,FC Sochaux,2,1
+2020-01-24,ligue-2,21,FC Lorient,AS Nancy Lorraine,2,1
+2020-01-24,ligue-2,21,Paris FC,Rodez AF,0,0
+2020-01-24,ligue-2,21,Valenciennes FC,Le Mans FC,1,0
+2020-01-24,ligue-2,21,Grenoble Foot 38,FC Chambly,0,0
+2020-01-24,ligue-2,21,LB Châteauroux,Chamois Niortais,1,1
+2020-01-24,ligue-2,21,SM Caen,AC Ajaccio,0,1
+2020-01-24,ligue-2,21,US Orléans,EA Guingamp,2,0
+2020-01-24,national,19,US Quevilly-Rouen,Pau FC,0,0
+2020-01-24,national,19,US Boulogne,US Créteil-Lusitanos,1,0
+2020-01-24,national,19,Gazélec FC Ajaccio,SC Toulon,0,0
+2020-01-24,national,19,Le Puy Foot 43,US Concarneau,0,1
+2020-01-24,national,19,AS Lyon Duchère,FC Villefranche Beaujolais,2,2
+2020-01-24,national,19,Red Star FC,FC Bourg-Péronnas,1,1
+2020-01-24,national,19,SO Cholet,Stade Lavallois,2,2
+2020-01-25,ligue-1,21,Olympique Marseille,Angers SCO,0,0
+2020-01-25,ligue-1,21,AS Monaco,RC Strasbourg,1,3
+2020-01-25,ligue-1,21,AS Saint-Étienne,Nîmes Olympique,2,1
+2020-01-25,ligue-1,21,Montpellier HSC,Dijon FCO,2,1
+2020-01-25,ligue-1,21,Stade Brestois 29,Amiens SC,2,1
+2020-01-25,ligue-1,21,Stade de Reims,FC Metz,0,1
+2020-01-25,ligue-2,21,RC Lens,Clermont Foot 63,1,1
+2020-01-26,ligue-1,21,Olympique Lyonnais,Toulouse FC,3,0
+2020-01-26,ligue-1,21,FC Nantes,Girondins Bordeaux,0,1
+2020-01-26,ligue-1,21,Lille OSC,Paris Saint-Germain,0,2
+2020-01-27,ligue-2,21,Havre AC,ESTAC Troyes,1,0
+2020-01-31,ligue-1,22,Stade Rennais,FC Nantes,3,2
+2020-01-31,ligue-2,22,AC Ajaccio,LB Châteauroux,0,1
+2020-01-31,ligue-2,22,Havre AC,RC Lens,0,0
+2020-01-31,ligue-2,22,Clermont Foot 63,US Orléans,3,1
+2020-01-31,ligue-2,22,EA Guingamp,AJ Auxerre,1,0
+2020-01-31,ligue-2,22,ESTAC Troyes,Grenoble Foot 38,1,2
+2020-01-31,ligue-2,22,FC Chambly,SM Caen,0,1
+2020-01-31,ligue-2,22,Chamois Niortais,Paris FC,4,4
+2020-01-31,ligue-2,22,Le Mans FC,AS Nancy Lorraine,1,1
+2020-01-31,ligue-2,22,Rodez AF,Valenciennes FC,1,1
+2020-01-31,national,20,USL Dunkerque,Red Star FC,1,1
+2020-01-31,national,20,FC Bourg-Péronnas,SC Toulon,2,1
+2020-01-31,national,20,FC Borgo,Gazélec FC Ajaccio,2,1
+2020-01-31,national,20,Stade Lavallois,AS Lyon Duchère,1,1
+2020-01-31,national,20,US Avranches,Le Puy Foot 43,3,1
+2020-01-31,national,20,US Concarneau,US Boulogne,0,2
+2020-01-31,national,20,US Créteil-Lusitanos,SO Cholet,3,0
+2020-01-31,national,20,FC Villefranche Beaujolais,US Quevilly-Rouen,2,0
+2020-02-01,ligue-1,22,Paris Saint-Germain,Montpellier HSC,5,0
+2020-02-01,ligue-1,22,Dijon FCO,Stade Brestois 29,3,0
+2020-02-01,ligue-1,22,Nîmes Olympique,AS Monaco,3,1
+2020-02-01,ligue-1,22,RC Strasbourg,Lille OSC,1,2
+2020-02-01,ligue-1,22,Amiens SC,Toulouse FC,0,0
+2020-02-01,ligue-1,22,Angers SCO,Stade de Reims,1,4
+2020-02-01,ligue-2,22,FC Sochaux,FC Lorient,0,4
+2020-02-01,national,20,Pau FC,AS Béziers,7,0
+2020-02-02,ligue-1,22,OGC Nice,Olympique Lyonnais,2,1
+2020-02-02,ligue-1,22,FC Metz,AS Saint-Étienne,3,1
+2020-02-02,ligue-1,22,Girondins Bordeaux,Olympique Marseille,0,0
+2020-02-03,ligue-2,23,Grenoble Foot 38,Havre AC,1,1
+2020-02-04,ligue-1,23,AS Monaco,Angers SCO,1,0
+2020-02-04,ligue-1,23,Lille OSC,Stade Rennais,1,0
+2020-02-04,ligue-1,23,FC Nantes,Paris Saint-Germain,1,2
+2020-02-04,ligue-2,23,AJ Auxerre,Clermont Foot 63,0,0
+2020-02-04,ligue-2,23,AS Nancy Lorraine,FC Sochaux,1,1
+2020-02-04,ligue-2,23,FC Lorient,Le Mans FC,4,2
+2020-02-04,ligue-2,23,Paris FC,AC Ajaccio,2,3
+2020-02-04,ligue-2,23,Valenciennes FC,EA Guingamp,0,0
+2020-02-04,ligue-2,23,LB Châteauroux,FC Chambly,0,3
+2020-02-04,ligue-2,23,RC Lens,ESTAC Troyes,1,0
+2020-02-04,ligue-2,23,SM Caen,Chamois Niortais,4,3
+2020-02-04,ligue-2,23,US Orléans,Rodez AF,1,2
+2020-02-05,ligue-1,23,Toulouse FC,RC Strasbourg,0,1
+2020-02-05,ligue-1,23,Montpellier HSC,FC Metz,1,1
+2020-02-05,ligue-1,23,Nîmes Olympique,Dijon FCO,2,0
+2020-02-05,ligue-1,23,Olympique Lyonnais,Amiens SC,0,0
+2020-02-05,ligue-1,23,Stade Brestois 29,Girondins Bordeaux,1,1
+2020-02-05,ligue-1,23,Stade de Reims,OGC Nice,1,1
+2020-02-05,ligue-1,23,AS Saint-Étienne,Olympique Marseille,0,2
+2020-02-07,ligue-1,24,Angers SCO,Lille OSC,0,2
+2020-02-07,ligue-2,24,AC Ajaccio,AJ Auxerre,2,3
+2020-02-07,ligue-2,24,Havre AC,SM Caen,1,1
+2020-02-07,ligue-2,24,Clermont Foot 63,Valenciennes FC,3,1
+2020-02-07,ligue-2,24,ESTAC Troyes,LB Châteauroux,2,0
+2020-02-07,ligue-2,24,FC Chambly,Paris FC,1,2
+2020-02-07,ligue-2,24,Chamois Niortais,US Orléans,2,0
+2020-02-07,ligue-2,24,FC Sochaux,Le Mans FC,1,0
+2020-02-07,ligue-2,24,Rodez AF,AS Nancy Lorraine,1,1
+2020-02-07,national,21,Red Star FC,Pau FC,1,2
+2020-02-07,national,21,AS Béziers,FC Villefranche Beaujolais,0,0
+2020-02-07,national,21,US Boulogne,US Avranches,3,1
+2020-02-07,national,21,Gazélec FC Ajaccio,FC Bourg-Péronnas,1,1
+2020-02-07,national,21,Le Puy Foot 43,FC Borgo,3,0
+2020-02-07,national,21,AS Lyon Duchère,US Créteil-Lusitanos,3,2
+2020-02-07,national,21,US Quevilly-Rouen,Stade Lavallois,2,1
+2020-02-07,national,21,SC Toulon,USL Dunkerque,0,1
+2020-02-07,national,21,SO Cholet,US Concarneau,0,0
+2020-02-08,ligue-1,24,Olympique Marseille,Toulouse FC,1,0
+2020-02-08,ligue-1,24,Dijon FCO,FC Nantes,3,3
+2020-02-08,ligue-1,24,FC Metz,Girondins Bordeaux,1,2
+2020-02-08,ligue-1,24,OGC Nice,Nîmes Olympique,1,3
+2020-02-08,ligue-1,24,Amiens SC,AS Monaco,1,2
+2020-02-08,ligue-1,24,Stade Rennais,Stade Brestois 29,0,0
+2020-02-08,ligue-2,24,EA Guingamp,FC Lorient,2,1
+2020-02-09,ligue-1,24,Montpellier HSC,AS Saint-Étienne,1,0
+2020-02-09,ligue-1,24,RC Strasbourg,Stade de Reims,3,0
+2020-02-09,ligue-1,24,Paris Saint-Germain,Olympique Lyonnais,4,2
+2020-02-10,ligue-2,24,RC Lens,Grenoble Foot 38,0,0
+2020-02-11,national,17,Gazélec FC Ajaccio,US Concarneau,2,0
+2020-02-14,ligue-1,25,AS Monaco,Montpellier HSC,1,0
+2020-02-14,ligue-2,25,AJ Auxerre,FC Chambly,0,0
+2020-02-14,ligue-2,25,Paris FC,Havre AC,1,0
+2020-02-14,ligue-2,25,Valenciennes FC,FC Sochaux,3,2
+2020-02-14,ligue-2,25,Grenoble Foot 38,Chamois Niortais,3,1
+2020-02-14,ligue-2,25,Le Mans FC,Rodez AF,0,0
+2020-02-14,ligue-2,25,SM Caen,ESTAC Troyes,0,1
+2020-02-14,ligue-2,25,US Orléans,AC Ajaccio,0,3
+2020-02-14,national,22,FC Villefranche Beaujolais,Red Star FC,0,0
+2020-02-14,national,22,FC Borgo,US Boulogne,1,0
+2020-02-14,national,22,Le Puy Foot 43,Gazélec FC Ajaccio,1,0
+2020-02-14,national,22,Pau FC,SC Toulon,3,0
+2020-02-14,national,22,Stade Lavallois,AS Béziers,1,0
+2020-02-14,national,22,US Avranches,SO Cholet,1,0
+2020-02-14,national,22,US Concarneau,AS Lyon Duchère,3,0
+2020-02-14,national,22,US Créteil-Lusitanos,US Quevilly-Rouen,1,3
+2020-02-14,national,22,USL Dunkerque,FC Bourg-Péronnas,3,4
+2020-02-15,ligue-1,25,Amiens SC,Paris Saint-Germain,4,4
+2020-02-15,ligue-1,25,FC Nantes,FC Metz,0,0
+2020-02-15,ligue-1,25,Toulouse FC,OGC Nice,0,2
+2020-02-15,ligue-1,25,Girondins Bordeaux,Dijon FCO,2,2
+2020-02-15,ligue-1,25,Nîmes Olympique,Angers SCO,1,0
+2020-02-15,ligue-2,25,AS Nancy Lorraine,EA Guingamp,0,1
+2020-02-15,ligue-2,25,FC Lorient,Clermont Foot 63,0,1
+2020-02-16,ligue-1,25,Olympique Lyonnais,RC Strasbourg,1,1
+2020-02-16,ligue-1,25,Stade Brestois 29,AS Saint-Étienne,3,2
+2020-02-16,ligue-1,25,Stade de Reims,Stade Rennais,1,0
+2020-02-16,ligue-1,25,Lille OSC,Olympique Marseille,1,2
+2020-02-17,ligue-2,25,LB Châteauroux,RC Lens,3,2
+2020-02-21,ligue-1,26,OGC Nice,Stade Brestois 29,2,2
+2020-02-21,ligue-1,26,FC Metz,Olympique Lyonnais,0,2
+2020-02-21,ligue-2,26,AC Ajaccio,Le Mans FC,2,0
+2020-02-21,ligue-2,26,Havre AC,US Orléans,1,2
+2020-02-21,ligue-2,26,Clermont Foot 63,Paris FC,0,1
+2020-02-21,ligue-2,26,EA Guingamp,FC Sochaux,1,1
+2020-02-21,ligue-2,26,FC Chambly,AS Nancy Lorraine,2,1
+2020-02-21,ligue-2,26,Chamois Niortais,Valenciennes FC,1,0
+2020-02-21,ligue-2,26,Grenoble Foot 38,LB Châteauroux,0,1
+2020-02-21,ligue-2,26,Rodez AF,FC Lorient,0,1
+2020-02-21,national,23,AS Béziers,US Créteil-Lusitanos,1,2
+2020-02-21,national,23,US Boulogne,Le Puy Foot 43,1,0
+2020-02-21,national,23,FC Bourg-Péronnas,Pau FC,0,0
+2020-02-21,national,23,Gazélec FC Ajaccio,USL Dunkerque,0,2
+2020-02-21,national,23,AS Lyon Duchère,US Avranches,1,4
+2020-02-21,national,23,US Quevilly-Rouen,US Concarneau,0,1
+2020-02-21,national,23,SC Toulon,FC Villefranche Beaujolais,3,0
+2020-02-21,national,23,SO Cholet,FC Borgo,0,0
+2020-02-22,ligue-1,26,Olympique Marseille,FC Nantes,1,3
+2020-02-22,ligue-1,26,Dijon FCO,AS Monaco,1,1
+2020-02-22,ligue-1,26,Lille OSC,Toulouse FC,3,0
+2020-02-22,ligue-1,26,RC Strasbourg,Amiens SC,0,0
+2020-02-22,ligue-1,26,Angers SCO,Montpellier HSC,1,0
+2020-02-22,ligue-2,26,RC Lens,SM Caen,1,4
+2020-02-22,national,23,Red Star FC,Stade Lavallois,1,0
+2020-02-23,ligue-1,26,AS Saint-Étienne,Stade de Reims,1,1
+2020-02-23,ligue-1,26,Stade Rennais,Nîmes Olympique,2,1
+2020-02-23,ligue-1,26,Paris Saint-Germain,Girondins Bordeaux,4,3
+2020-02-24,ligue-2,26,ESTAC Troyes,AJ Auxerre,3,1
+2020-02-28,ligue-1,27,Nîmes Olympique,Olympique Marseille,2,3
+2020-02-28,ligue-2,27,AJ Auxerre,Chamois Niortais,3,1
+2020-02-28,ligue-2,27,AS Nancy Lorraine,Clermont Foot 63,1,2
+2020-02-28,ligue-2,27,FC Sochaux,Rodez AF,1,1
+2020-02-28,ligue-2,27,Valenciennes FC,AC Ajaccio,0,0
+2020-02-28,ligue-2,27,LB Châteauroux,Havre AC,0,3
+2020-02-28,ligue-2,27,Le Mans FC,EA Guingamp,2,1
+2020-02-28,ligue-2,27,SM Caen,Grenoble Foot 38,2,0
+2020-02-28,ligue-2,27,US Orléans,ESTAC Troyes,0,2
+2020-02-28,national,24,Pau FC,USL Dunkerque,2,0
+2020-02-28,national,24,US Boulogne,Gazélec FC Ajaccio,4,1
+2020-02-28,national,24,FC Borgo,AS Lyon Duchère,0,1
+2020-02-28,national,24,Le Puy Foot 43,SO Cholet,2,6
+2020-02-28,national,24,Stade Lavallois,SC Toulon,3,0
+2020-02-28,national,24,US Avranches,US Quevilly-Rouen,3,2
+2020-02-28,national,24,US Concarneau,AS Béziers,2,1
+2020-02-28,national,24,US Créteil-Lusitanos,Red Star FC,0,0
+2020-02-28,national,24,FC Villefranche Beaujolais,FC Bourg-Péronnas,1,2
+2020-02-29,ligue-1,27,Paris Saint-Germain,Dijon FCO,4,0
+2020-02-29,ligue-1,27,AS Monaco,Stade de Reims,1,1
+2020-02-29,ligue-1,27,Toulouse FC,Stade Rennais,0,2
+2020-02-29,ligue-1,27,Montpellier HSC,RC Strasbourg,3,0
+2020-02-29,ligue-1,27,Amiens SC,FC Metz,0,1
+2020-02-29,ligue-1,27,Stade Brestois 29,Angers SCO,0,1
+2020-02-29,ligue-2,27,FC Lorient,FC Chambly,1,2
+2020-03-01,ligue-1,27,FC Nantes,Lille OSC,0,1
+2020-03-01,ligue-1,27,Girondins Bordeaux,OGC Nice,1,1
+2020-03-01,ligue-1,27,Olympique Lyonnais,AS Saint-Étienne,2,0
+2020-03-02,ligue-2,27,Paris FC,RC Lens,0,2
+2020-03-06,ligue-1,28,Olympique Marseille,Amiens SC,2,2
+2020-03-06,ligue-2,28,Havre AC,AJ Auxerre,1,0
+2020-03-06,ligue-2,28,Clermont Foot 63,FC Sochaux,2,0
+2020-03-06,ligue-2,28,ESTAC Troyes,Paris FC,1,1
+2020-03-06,ligue-2,28,FC Chambly,Le Mans FC,2,2
+2020-03-06,ligue-2,28,Chamois Niortais,AS Nancy Lorraine,1,1
+2020-03-06,ligue-2,28,Grenoble Foot 38,Valenciennes FC,1,3
+2020-03-06,ligue-2,28,LB Châteauroux,SM Caen,2,1
+2020-03-06,ligue-2,28,Rodez AF,EA Guingamp,2,1
+2020-03-06,national,25,USL Dunkerque,FC Villefranche Beaujolais,1,1
+2020-03-06,national,25,AS Béziers,US Avranches,2,0
+2020-03-06,national,25,FC Bourg-Péronnas,Stade Lavallois,3,0
+2020-03-06,national,25,Gazélec FC Ajaccio,Pau FC,2,1
+2020-03-06,national,25,AS Lyon Duchère,Le Puy Foot 43,0,1
+2020-03-06,national,25,Red Star FC,US Concarneau,1,2
+2020-03-06,national,25,SC Toulon,US Créteil-Lusitanos,1,2
+2020-03-06,national,25,SO Cholet,US Boulogne,0,3
+2020-03-07,ligue-1,28,Dijon FCO,Toulouse FC,2,1
+2020-03-07,ligue-1,28,FC Metz,Nîmes Olympique,2,1
+2020-03-07,ligue-1,28,OGC Nice,AS Monaco,2,1
+2020-03-07,ligue-1,28,Angers SCO,FC Nantes,2,0
+2020-03-07,ligue-1,28,Stade de Reims,Stade Brestois 29,1,0
+2020-03-07,ligue-2,28,AC Ajaccio,FC Lorient,1,0
+2020-03-08,ligue-1,28,AS Saint-Étienne,Girondins Bordeaux,1,1
+2020-03-08,ligue-1,28,Stade Rennais,Montpellier HSC,5,0
+2020-03-08,ligue-1,28,Lille OSC,Olympique Lyonnais,1,0
+2020-03-09,ligue-2,28,RC Lens,US Orléans,1,0
