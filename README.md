@@ -81,7 +81,7 @@ Where:
 **Adjustments and extensions:**
 - Different **K values** depending on the division (L1, L2, National)
 - **Reset to 1200** after long inactivity or special cases (e.g., COVID season)
-- **Penalty of -100 ELO points** applied to certain 2020 anomalies (Paris, Strasbourg, etc.)
+- **Penalty of -100 ELO points** applied to teams that are no longer in the rankings. 
 
 ---
 
@@ -92,7 +92,7 @@ The perpetual ranking is based on a custom point system that considers division 
 | Division | Win | Draw | Loss |
 |:----------|:---:|:----:|:----:|
 | Ligue 1 | 9 | 3 | 0 |
-| Ligue 2 | 6 | 2 | 1 |
+| Ligue 2 | 6 | 2 | 0 |
 | National | 3 | 1 | 0 |
 
 This ranking rewards consistency and long-term performance across different leagues.
