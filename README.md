@@ -1,4 +1,4 @@
-# ⚽ French Football ELO Ranking Project (1997–2025)
+# French Football ELO Ranking Project (1997–2025)
 
 ![video](/Bart_Chart_Race_Elo/elo.gif "Animated elo bar chart")
 
@@ -13,38 +13,38 @@ It includes:
 
 ---
 
-## 🧠 Objective
+## Objective
 
 To design a **new performance metric** that captures team form and historical strength, which can later be used for **feature engineering** in football match outcome prediction models.
 
 ---
 
-## ⚙️ Update Workflow (Each New Version)
+## Update Workflow (Each New Version)
 
 Every time new data is added, follow this process:
 
-1. 🕸️ **Scrape match data**  
+1. **Scrape match data**  
    → `scrapping_data.ipynb`
 
-2. 📅 **Concatenate matchdays**  
+2. **Concatenate matchdays**  
    → `concatenate_results.ipynb`
 
-3. 🧮 **Update the perpetual ranking**  
+3. **Update the perpetual ranking**  
    → `create_rankings.ipynb`
 
-4. ⚡ **Update ELO ratings**  
+4. **Update ELO ratings**  
    → `Elo.ipynb`
 
-5. 🏆 **Update ELO ranking with match logs**  
+5. **Update ELO ranking with match logs**  
    → `Elo_create_ranking.ipynb`
 
-➡️ **After completing these steps**, you can directly:
+**After completing these steps**, you can directly:
 - Generate **bar chart race animations**
 - Plot **ELO evolution charts**
 
 ---
 
-## 🧩 Project File Overview (in the folder "programmes")
+## Project File Overview (in the folder "programmes")
 
 | File | Description |
 |------|--------------|
@@ -61,7 +61,7 @@ Every time new data is added, follow this process:
 
 ---
 
-## 🧮 ELO Rating System
+## ELO Rating System
 
 The ELO rating is calculated using a customized version of the standard formula:
 
@@ -85,7 +85,7 @@ Where:
 
 ---
 
-## 🏆 Perpetual Ranking System
+## Perpetual Ranking System
 
 The perpetual ranking is based on a custom point system that considers division level:
 
@@ -99,9 +99,9 @@ This ranking rewards consistency and long-term performance across different leag
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
-### 🎥 **Bar Chart Race**
+### **Bar Chart Race**
 
 - Built using the **`bar_chart_race`** Python library.  
 - The library was **modified** to include **club logos** next to each bar for improved visuals.  
