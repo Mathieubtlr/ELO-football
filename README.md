@@ -1,7 +1,6 @@
 # French Football ELO Ranking Project (1997–2025)
 
-![Animated Elo Bar Chart](/Bar%20Chart%20Race%20Elo/elo.gif "Animated Elo bar chart")
-
+![video](/Bart_Chart_Race_Elo/elo.gif "Animated elo bar chart")
 
 This is a personal project that focuses on creating an **ELO ranking system** for French football over the last 30 years, covering approximately **30,000 matches** between 1997 and 2025.
 
